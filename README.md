@@ -4,13 +4,19 @@ _Last updated: 2025-12-08_
 
 This document governs the use of:
 
-- All content in this repository;
+- All content in this GitHub repository;
 - All related content shared in the official Discord server **“The PCs Secret”**;
-- Any other official documents, tweak packs, and materials released by the Owner.
+- Any other official documents, tweak packs, and materials released under the same ownership.
 
-It is intended to protect the Owner’s work, allow non-commercial community use and improvement, and strictly limit commercial and AI uses.
+It is intended to:
 
-> **Important:** This is a custom policy built on top of Creative Commons BY-NC-SA 4.0 principles with additional restrictions. Where there is any conflict, **this Policy controls** for the content covered here.
+- Protect the Owner’s work;
+- Allow strictly **non-commercial** community use and improvement; and
+- Strongly restrict **commercial** and **AI-related** use.
+
+> **Important:** This is a custom policy inspired by Creative Commons BY-NC-SA 4.0, but it is **not** a standard Creative Commons license. For the Content covered here, **only this Policy applies**. In any conflict between this Policy and any external template, summary, or license label, **this Policy prevails**.
+
+By accessing, using, copying, or distributing any Content, **you agree to be bound** by this Policy.
 
 ---
 
@@ -53,22 +59,52 @@ It is intended to protect the Owner’s work, allow non-commercial community use
 - Violations can result in **immediate termination of rights, bans, takedowns, and claims for damages**.
 - Any dispute is governed by the laws and courts of **Lisbon, Portugal**.
 
+The TL;DR is for convenience only. In case of conflict, the full Policy below controls.
+
 ---
 
 ## 1. Definitions
 
 For the purposes of this Policy:
 
-- **Owner**: The person controlling this project and repository, identified publicly as **“Pppp1116”**.
-- **Project**: This repository and its associated content, including scripts, docs, guides, issues, discussions, and any related materials.
-- **Official Discord**: The associated Discord server and its channels, messages, attachments, and files:  
+- **Owner**:  
+  The individual who owns and administers:
+  - this GitHub repository; and  
+  - the Discord server **“The PCs Secret”**,  
+  and who is publicly identified by the handle **“Pppp1116”** on both GitHub and Discord.  
+  References to the Owner include any future legal entity that may lawfully assume ownership of the Project.
+
+- **Project**:  
+  This repository and its associated content, including scripts, documentation, guides, issues, discussions, and any related materials.
+
+- **Official Discord**:  
+  The associated Discord server and its channels, messages, attachments, and files:  
   - Server name: **“The PCs Secret”**  
   - Invite link: `https://discord.gg/avxB63dY2T`
-- **Content**: Any text, code, configuration, registry keys, values, comments, documentation, images, or other material created or shared by the Owner or within the Project/Official Discord.
-- **Owner Content**: Content originally created or curated by the Owner.
-- **Member Content**: Content posted by other users (members) in the Official Discord or contributed to the repository.
-- **Non-Commercial Use**: Use that complies with Section 2.2 below.
-- **Substantial Use**: Use that goes beyond small quotations, as described in Section 5.
+
+- **Content**:  
+  Any text, code, configuration, registry keys, values, comments, documentation, images, files, or other material created or shared by the Owner or within the Project / Official Discord, whether past, present, or future, and in any format or medium (including archives, screenshots, exports, and forks).
+
+- **Owner Content**:  
+  Content originally created, curated, or expressly published by the Owner.
+
+- **Member Content**:  
+  Content posted by other users (members) in the Official Discord or contributed to the repository (e.g., via issues, pull requests, or discussions).
+
+- **You / User / Licensee**:  
+  Any individual, group, organization, or legal entity that accesses, uses, copies, distributes, or otherwise interacts with the Content.
+
+- **Non-Commercial Use**:  
+  Use that complies fully with Section 2.2.
+
+- **Substantial Use**:  
+  Use that goes beyond small quotations as described in Section 5.
+
+- **Interpretation of “including”**:  
+  Where this Policy uses phrases such as “includes”, “including”, or “for example”, such lists are illustrative and **not exhaustive**. Similar behaviors or uses that have the same practical effect are covered even if not explicitly listed.
+
+- **Capacity**:  
+  By using the Content, you represent that you have the legal capacity to enter into binding agreements in your jurisdiction, or that you have obtained any necessary consent from a parent or legal guardian.
 
 ---
 
@@ -78,22 +114,22 @@ For the purposes of this Policy:
 
 All commercial rights in Owner Content are **exclusively reserved** by the Owner. This includes, without limitation:
 
-- Selling access to the content or derivative works;
+- Selling access to the Content or derivative works;
 - Bundling tweak packs, presets, configs, or guides into paid products;
 - Providing “premium” or subscription access (Patreon, Discord roles, memberships, etc.) based on Owner Content;
-- Using the content as part of any paid service, consultancy, or course.
+- Using the Content as part of any paid service, consultancy, or course.
 
 Unless you have explicit written permission from the Owner, **you receive no commercial rights at all**.
 
 ### 2.2. Extended Definition of Non-Commercial Use
 
-For this Policy, “Non-Commercial” means **you may not receive direct or indirect monetary compensation** in exchange for access to, or use of, the content.
+For this Policy, “Non-Commercial” means **you may not receive direct or indirect monetary compensation** in exchange for access to, or use of, the Content.
 
 This includes, but is not limited to:
 
-- Selling the content or derivatives;
+- Selling the Content or derivatives;
 - Charging for access to tweak packs, scripts, or configuration bundles;
-- Gating content behind:
+- Gating Content behind:
   - Patreon tiers,
   - Ko-fi memberships,
   - Paid Discord roles,
@@ -112,13 +148,21 @@ Ad-supported educational content (for example, a YouTube video or blog post) may
    - Sell or bundle tweak packs based on this Project;  
    - Gate “preset bundles” or “full configs” derived from this work behind donations, memberships, or subscriptions.
 
-If you are unsure whether your use is non-commercial, assume that it is **not allowed** and request permission (see Section 12).
+The Owner reserves the right, at their **sole discretion**, to determine whether a specific use is commercial or non-commercial, especially in borderline cases involving ad revenue, affiliate links, sponsorships, or indirect monetization. If the Owner notifies you that your use is considered commercial, you must either cease that use or obtain a commercial license.
+
+### 2.3. No Assignment or Sublicensing by Users
+
+You may not assign, transfer, or sublicense any rights granted to you under this Policy to any other person or entity. Any attempt to do so without the Owner’s prior written consent is **void** and constitutes a breach of this Policy.
+
+### 2.4. Mandatory Rights Under Law
+
+Nothing in this Policy is intended to limit any rights that you cannot contractually waive or restrict under applicable law (such as mandatory exceptions or limitations under copyright law). However, to the maximum extent permitted by law, **all rights not expressly granted to you here are reserved by the Owner**.
 
 ---
 
 ## 3. Scope of Covered Content (GitHub + Discord + Mirrors)
 
-This Policy applies to all related content produced by or for the Project, including but not limited to:
+This Policy applies to all related Content produced by or for the Project, including but not limited to:
 
 - Files, scripts, docs, and data in this GitHub repository;
 - Git commits, Issues, Pull Requests, Discussions, and Wiki pages;
@@ -131,7 +175,7 @@ If it comes from the Owner or is branded as part of this Project, **this Policy 
 
 ## 4. Attribution Requirements
 
-Whenever you use, share, or build upon Owner Content or substantial Member Content, you must clearly and visibly attribute the original source.
+Whenever you use, share, or build upon Owner Content or Substantial Member Content, you must clearly and visibly attribute the original source.
 
 At a minimum, your attribution must include:
 
@@ -145,7 +189,7 @@ At a minimum, your attribution must include:
 
 Attribution must:
 
-- Be visible wherever the content is used or displayed (e.g., video description, blog article, README, script header, PDF intro);
+- Be visible wherever the Content is used or displayed (e.g., video description, blog article, README, script header, PDF intro);
 - Not be hidden, minimized, or placed in an obscure location;
 - Not be removed in forks, mirrors, or translations.
 
@@ -172,6 +216,17 @@ However, the following are considered **Substantial Use** and must fully comply 
 - Packaging multiple tweaks or discoveries from the Project into “packs”, “presets”, or “config bundles.”
 
 When in doubt, treat your use as **Substantial Use**.
+
+### 5.1. No Evasion or Technical Workarounds
+
+You may not attempt to circumvent this Policy by:
+
+- Splitting Content into smaller fragments across multiple sites, accounts, or repositories;
+- Using images, screenshots, or video overlays in place of text solely to avoid license terms;
+- Republishing slightly modified, reordered, or obfuscated Content that has the same practical effect as the original;
+- Using intermediaries, bots, or automated accounts to reproduce the Content on your behalf.
+
+Any such attempts will be treated as a breach of this Policy to the same extent as direct copying.
 
 ---
 
@@ -234,6 +289,8 @@ Any link or reference to third-party content:
 
 - **Does not imply endorsement, partnership, or responsibility** by the Owner;
 - Does not transfer any intellectual property rights from the third party to you or to the Owner.
+
+Nothing in this Policy shall be interpreted as granting you any license, right, or interest in third-party content by implication, estoppel, or otherwise. All such rights remain with their respective owners.
 
 ---
 
@@ -302,7 +359,8 @@ To enforce this Policy and verify authorship, the Owner may embed visible or inv
 You may **not**:
 
 - Remove, alter, obfuscate, or attempt to strip such markers;
-- Use tools or methods specifically aimed at erasing or bypassing these markers.
+- Use tools or methods specifically aimed at erasing, bypassing, or reverse-engineering these markers, signatures, or fingerprinting techniques;
+- Publish guides, tools, or instructions whose **primary purpose** is to remove or defeat the Owner’s watermarking or tracing mechanisms.
 
 The Owner may also use technical means (e.g., unique download links, fingerprinting, similarity detection) to detect large-scale copying or unauthorized AI use. These measures are used solely for abuse detection and enforcement.
 
@@ -332,6 +390,16 @@ Your request should include:
 - Whether and how it will be monetized.
 
 The Owner may grant or refuse permission at their sole discretion and may impose additional conditions.
+
+### 12.1. Revocability of Exceptions
+
+Any permission, exception, or license granted by the Owner under this Policy is:
+
+- Limited to the scope explicitly described in writing;
+- Non-transferable; and
+- **Revocable at will** by the Owner, especially in cases of abuse, misrepresentation, or material changes to how the Content is used.
+
+If a granted permission is revoked, you must promptly cease the covered use and comply with any reasonable takedown or modification request issued by the Owner.
 
 ---
 
@@ -424,9 +492,20 @@ The Owner may update or modify this Policy from time to time. Significant change
 
 ## 19. No Waiver, Severability, and Policy Precedence
 
-- **No Waiver**: Failure by the Owner to enforce any provision of this Policy in a particular instance does **not** constitute a waiver of the right to enforce that provision or any other provision in the future.
-- **Severability**: If any part of this Policy is found invalid or unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect.
-- **Policy Precedence**: In case of any conflict between this Policy and any brief summary, FAQ, or informal explanation (including the TL;DR section), **this Policy text prevails**.
+- **No Waiver**:  
+  Failure by the Owner to enforce any provision of this Policy in a particular instance does **not** constitute a waiver of the right to enforce that provision or any other provision in the future.
+
+- **Severability**:  
+  If any part of this Policy is found invalid or unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect and shall be interpreted so as to give maximum effect to the Owner’s original intent.
+
+- **Headings**:  
+  Section and subsection headings are for convenience only and shall not affect the interpretation of this Policy.
+
+- **Entire Agreement**:  
+  This Policy constitutes the entire understanding between you and the Owner with respect to the Content and supersedes any prior or contemporaneous statements, summaries, or communications on the same subject, whether written or oral.
+
+- **Policy Precedence**:  
+  In case of any conflict between this Policy and any brief summary, FAQ, social media post, chat message, or informal explanation (including the TL;DR section), **this Policy text prevails**.
 
 ---
 
