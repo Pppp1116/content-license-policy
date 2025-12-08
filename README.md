@@ -24,6 +24,7 @@ By accessing, using, copying, or distributing any Content, **you agree to be bou
 
 - [0. TL;DR (Non-Legally Binding Summary)](#0-tldr-non-legally-binding-summary)
 - [1. Definitions](#1-definitions)
+- [1A. License Grant and Reservation of Rights](#1a-license-grant-and-reservation-of-rights)
 - [2. Non-Commercial Use and Exclusive Commercial Rights](#2-non-commercial-use-and-exclusive-commercial-rights)
 - [3. Scope of Covered Content (GitHub + Discord + Mirrors)](#3-scope-of-covered-content-github--discord--mirrors)
 - [4. Attribution Requirements](#4-attribution-requirements)
@@ -36,6 +37,7 @@ By accessing, using, copying, or distributing any Content, **you agree to be bou
 - [11. Watermarking, Fingerprinting, and Technical Tracing](#11-watermarking-fingerprinting-and-technical-tracing)
 - [12. Requesting Exceptions or Commercial Licenses](#12-requesting-exceptions-or-commercial-licenses)
 - [13. No Endorsement or Implied Partnership](#13-no-endorsement-or-implied-partnership)
+- [13A. Trademarks, Names, and Branding](#13a-trademarks-names-and-branding)
 - [14. System Risk and User Responsibility](#14-system-risk-and-user-responsibility)
 - [15. No Illegal Use or ToS Violations](#15-no-illegal-use-or-tos-violations)
 - [16. Enforcement, Termination, and Remedies](#16-enforcement-termination-and-remedies)
@@ -83,7 +85,8 @@ For the purposes of this Policy:
   - Invite link: `https://discord.gg/avxB63dY2T`
 
 - **Content**:  
-  Any text, code, configuration, registry keys, values, comments, documentation, images, files, or other material created or shared by the Owner or within the Project / Official Discord, whether past, present, or future, and in any format or medium (including archives, screenshots, exports, and forks).
+  Any text, code, configuration, registry keys, values, comments, documentation, images, files, or other material created or shared by the Owner or within the Project / Official Discord, whether past, present, or future, and in any format or medium (including archives, screenshots, exports, and forks).  
+  The Content is protected by copyright and related rights, and may also be protected by database, trade secret, and other intellectual property or proprietary rights under applicable law.
 
 - **Owner Content**:  
   Content originally created, curated, or expressly published by the Owner.
@@ -104,7 +107,18 @@ For the purposes of this Policy:
   Where this Policy uses phrases such as “includes”, “including”, or “for example”, such lists are illustrative and **not exhaustive**. Similar behaviors or uses that have the same practical effect are covered even if not explicitly listed.
 
 - **Capacity**:  
-  By using the Content, you represent that you have the legal capacity to enter into binding agreements in your jurisdiction, or that you have obtained any necessary consent from a parent or legal guardian.
+  By using the Content, you represent that you have the legal capacity to enter into binding agreements in your jurisdiction, or that you have obtained any necessary consent from a parent or legal guardian. If you are under the age of majority in your jurisdiction, you must obtain permission from a parent or legal guardian before using the Content, and that parent or guardian will be deemed the Licensee for purposes of this Policy.
+
+---
+
+## 1A. License Grant and Reservation of Rights
+
+1. Subject to your full and ongoing compliance with this Policy, the Owner grants you a limited, revocable, non-exclusive, non-transferable, **non-sublicensable** license to access and use the Content solely for **Non-Commercial Use** as defined in Section 2.
+2. No other rights are granted. In particular, you receive **no**:
+   - Ownership or title in the Content;
+   - Commercial rights of any kind;
+   - Rights to sublicense, assign, or transfer this license to others (see Section 2.3).
+3. To the maximum extent permitted by law, **all rights not expressly granted to you in this Policy are reserved by the Owner**.
 
 ---
 
@@ -123,7 +137,7 @@ Unless you have explicit written permission from the Owner, **you receive no com
 
 ### 2.2. Extended Definition of Non-Commercial Use
 
-For this Policy, “Non-Commercial” means **you may not receive direct or indirect monetary compensation** in exchange for access to, or use of, the Content.
+For this Policy, “Non-Commercial” means **you may not receive direct or indirect monetary compensation** in exchange for access to, or use of, the Content, including any form of money, cryptocurrency, credits, gifts, sponsorships, affiliate commissions, or other valuable consideration, whether paid by end-users, sponsors, or platforms.
 
 This includes, but is not limited to:
 
@@ -147,6 +161,7 @@ Ad-supported educational content (for example, a YouTube video or blog post) may
 3. The channel, site, or creator does **not**:
    - Sell or bundle tweak packs based on this Project;  
    - Gate “preset bundles” or “full configs” derived from this work behind donations, memberships, or subscriptions.
+4. The primary value of the educational content must come from your **own commentary, analysis, or testing**, not from simply reproducing the Owner’s Content or tweak packs in bulk.
 
 The Owner reserves the right, at their **sole discretion**, to determine whether a specific use is commercial or non-commercial, especially in borderline cases involving ad revenue, affiliate links, sponsorships, or indirect monetization. If the Owner notifies you that your use is considered commercial, you must either cease that use or obtain a commercial license.
 
@@ -191,7 +206,8 @@ Attribution must:
 
 - Be visible wherever the Content is used or displayed (e.g., video description, blog article, README, script header, PDF intro);
 - Not be hidden, minimized, or placed in an obscure location;
-- Not be removed in forks, mirrors, or translations.
+- Not be removed in forks, mirrors, or translations;
+- Not be presented in a way that falsely suggests that you are the primary or sole author of the underlying discovery or tweak.
 
 ### 4.1. License Notice Propagation
 
@@ -214,6 +230,8 @@ However, the following are considered **Substantial Use** and must fully comply 
 - Reproducing full `.reg`, `.bat`, `.ps1`, or similar files, or large sections;
 - Republishing curated lists of registry keys, values, or settings derived from the Project;
 - Packaging multiple tweaks or discoveries from the Project into “packs”, “presets”, or “config bundles.”
+
+Substantial Use also includes any compilation or re-expression that, even if reworded or reformatted, delivers substantially the same set of tweaks, registry keys, or configuration changes as the Project in a way that a typical user could use as a functional substitute for the original Content.
 
 When in doubt, treat your use as **Substantial Use**.
 
@@ -242,6 +260,8 @@ You are allowed to **experiment**, **modify**, and **improve** registry keys, co
 
 Community experimentation and evolution of tweaks over time is welcome, as long as it remains non-commercial and properly credited.
 
+Any public distribution of derivative works that incorporate Substantial Use of the Content must clearly state that they are subject to this Policy and may not be offered under more permissive terms.
+
 ### 6.2. Translations and Localizations
 
 Translating the Content into another language is considered a **derivative work**.
@@ -253,6 +273,8 @@ Any public distribution of translations (e.g., blogs, PDFs, GitHub repos, Discor
 - Not misrepresent the translation as original research.
 
 For **large or standalone translations** (full guide PDF, full website mirror, multi-post series, etc.), **prior written approval from the Owner is required**.
+
+This does not restrict small translated quotations for commentary, review, or discussion, provided you comply with Section 4 and do not present the translation as an official or complete version.
 
 ### 6.3. Reformatting and Packaging
 
@@ -304,6 +326,8 @@ GitHub’s technical ability to fork, clone, or create gists **does not grant yo
 - Strip attribution or watermarks in a fork or mirror;
 - Re-license the Content under a different license.
 
+If the Owner notifies you that a public fork, mirror, or gist is in breach of this Policy, you must promptly make it private or delete it, as reasonably requested by the Owner.
+
 ---
 
 ## 9. Member Content and License to the Owner
@@ -314,11 +338,18 @@ Members retain ownership of their own original content (e.g., discoveries, test 
 
 ### 9.2. Member License to the Owner
 
-By posting Member Content in the Official Discord **“The PCs Secret”** or contributing it to this repository, you grant the Owner a **perpetual, worldwide, non-exclusive license** to:
+By posting Member Content in the Official Discord **“The PCs Secret”** or contributing it to this repository, you grant the Owner a **worldwide, perpetual, irrevocable (to the maximum extent permitted by law), royalty-free, fully-paid, transferable and sublicensable license** to:
 
-- Use, modify, compile, and integrate the Member Content into the Project;
-- Publish and redistribute it as part of the Project or related projects;
-- Use it **commercially** as part of Owner products, services, or materials.
+1. Use, copy, host, store, display, perform, reproduce, modify, adapt, translate, and create derivative works from the Member Content;
+2. Combine the Member Content with Owner Content or other content in the Project;
+3. Publish, distribute, and redistribute the Member Content (in original or modified form) as part of the Project or related projects;
+4. Use the Member Content **commercially** in any products, services, or materials of the Owner or the Owner’s licensees.
+
+You also represent and warrant that:
+
+- You have all necessary rights, licenses, and permissions to grant this license;
+- Your Member Content does not knowingly infringe the rights of any third party;
+- Your Member Content is not subject to any confidentiality obligation that would conflict with this license.
 
 Other users receive only the **non-commercial rights** described in this Policy. Member Content is **not** automatically free for others to monetize.
 
@@ -328,15 +359,17 @@ Other users receive only the **non-commercial rights** described in this Policy.
 
 ### 10.1. Ten-Year AI Usage Ban for Third Parties
 
-For a period of **ten (10) years** from the date of publication of any Content in this Project or in the Official Discord, **no person or entity other than the Owner** may use that Content for any AI-related purpose without explicit written permission from the Owner.
+For a period of **ten (10) years** from the date when any specific Content is first made publicly available as part of this Project or in the Official Discord, **no person or entity other than the Owner** may use that Content, in whole or in part, for any AI-related purpose without the Owner’s explicit prior written permission.
 
-Prohibited AI uses include, but are not limited to:
+This prohibition includes, without limitation:
 
-- Training, fine-tuning, or evaluating machine learning models (LLMs, diffusion models, recommendation systems, etc.);
+- Training, fine-tuning, or evaluating any machine learning or AI model;
 - Building or augmenting datasets;
 - Generating embeddings, vector representations, or feature extractions;
-- Automated summarization or large-scale extraction of patterns for model consumption;
-- Using the Content as prompt source, context, or knowledge base in tools that expose it to third parties at scale.
+- Automated large-scale scraping or harvesting specifically intended to feed AI systems;
+- Using the Content as a systematic source of prompts, context, or knowledge in tools that expose it to third parties at scale.
+
+**For the avoidance of doubt**, for purposes of any applicable text-and-data-mining exception (including Article 4 of Directive (EU) 2019/790 and its national implementations), the Owner **expressly reserves and opts out of** any permission to use the Content for text-and-data-mining or AI-related purposes by third parties, except where the Owner has given explicit written permission.
 
 ### 10.2. Owner Exception
 
@@ -345,6 +378,10 @@ The Owner may freely use Owner Content and Member Content (under the license in 
 ### 10.3. No “Non-Commercial AI” Exception
 
 There is **no automatic exception** for “non-commercial AI” or “academic research.” All AI-related uses by third parties require explicit written permission from the Owner.
+
+### 10.4. Automated Bulk Access
+
+You may not use bots, scrapers, or automated tools to systematically download, mirror, or harvest large portions of the Content beyond what is necessary for normal human viewing and non-commercial use (for example, cloning the repository once for personal use is acceptable; mass-mirroring multiple times to multiple destinations is not), unless you have the Owner’s written permission.
 
 ---
 
@@ -363,6 +400,8 @@ You may **not**:
 - Publish guides, tools, or instructions whose **primary purpose** is to remove or defeat the Owner’s watermarking or tracing mechanisms.
 
 The Owner may also use technical means (e.g., unique download links, fingerprinting, similarity detection) to detect large-scale copying or unauthorized AI use. These measures are used solely for abuse detection and enforcement.
+
+By using the Content, you acknowledge and agree that the Owner may analyze public materials and repositories for similarities or matches to the Content for the sole purpose of detecting unauthorized use or enforcing this Policy.
 
 ---
 
@@ -414,6 +453,18 @@ You may not state or imply that you are:
 unless you have explicit written permission.
 
 Using the Owner’s name, branding, or server name in a way that suggests endorsement (e.g., “official tweaks,” “certified by Pppp1116”, “The PCs Secret official pack”) is strictly prohibited.
+
+---
+
+## 13A. Trademarks, Names, and Branding
+
+1. All names, logos, icons, server names, and other branding associated with the Project, including but not limited to **“The PCs Secret”** and the handle **“Pppp1116”**, may be protected as trademarks, trade names, or distinctive identifiers.
+2. This Policy **does not** grant you any rights or licenses in such marks or branding.
+3. You may not use the Owner’s or Project’s names, logos, or branding:
+   - In a way that suggests sponsorship, endorsement, or official status;
+   - As part of your own product name, server name, or domain;
+   - In any confusingly similar or misleading manner.
+4. Any permitted references must be purely descriptive (e.g., “based on tweaks by Pppp1116”) and must comply with Sections 4 and 13.
 
 ---
 
@@ -471,6 +522,18 @@ In addition to termination and takedown, the Owner reserves the right to seek:
 - Statutory or actual damages where applicable;
 - Recovery of enforcement costs, including reasonable legal fees, to the extent permitted by law.
 
+### 16.4. Indemnity
+
+To the maximum extent permitted by law, you agree to indemnify, defend, and hold harmless the Owner from and against any and all claims, demands, damages, losses, costs, and expenses (including reasonable legal fees) arising out of or in connection with:
+
+- Your use of the Content;
+- Your breach of this Policy; or
+- Any claim that your Member Content infringes or misappropriates any third-party right.
+
+### 16.5. Injunctive and Equitable Relief
+
+You agree that any unauthorized use of the Content or breach of this Policy may cause irreparable harm to the Owner for which monetary damages may be inadequate. The Owner shall be entitled to seek injunctive or other equitable relief in any competent court, without the need to post a bond or prove actual damages, in addition to any other remedies available at law or in equity.
+
 ---
 
 ## 17. Governing Law and Jurisdiction
@@ -506,6 +569,9 @@ The Owner may update or modify this Policy from time to time. Significant change
 
 - **Policy Precedence**:  
   In case of any conflict between this Policy and any brief summary, FAQ, social media post, chat message, or informal explanation (including the TL;DR section), **this Policy text prevails**.
+
+- **Survival**:  
+  Provisions that by their nature should survive termination shall survive, including but not limited to Sections 2.1–2.4, 4–7, 9–12, 14–18, 19, and any payment, indemnity, or limitation-of-liability obligations. Termination of your license does not affect the Owner’s rights already accrued.
 
 ---
 
