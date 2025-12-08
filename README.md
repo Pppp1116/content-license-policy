@@ -154,7 +154,8 @@ The Server Owner enforces this policy at their **sole discretion**.
 Disputes related to this Policy or community are governed by the laws of **[Insert Your Country/State Here]**, without conflict of laws rules.
 
 - **Informal Resolution**: Attempt good-faith contact with the Server Owner before legal action (e.g., via email, allowing 30 days response).
-- **Jurisdiction**: Exclusive in [Insert Courts Here].
+- **Jurisdiction**:  Exclusive in the courts of Lisbon, Portugal
+
 - **No Class Actions**: Disputes on an individual basis only.
 
 ## 12. Severability & Survival
