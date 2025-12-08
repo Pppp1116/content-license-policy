@@ -1,16 +1,42 @@
 # Content License & Usage Policy
 
-_Last updated: 08/12/2025
+_Last updated: 2025-12-08_
 
 This document governs the use of:
 
 - All content in this repository;
-- All related content shared in the official Discord server;
+- All related content shared in the official Discord server **“The PCs Secret”**;
 - Any other official documents, tweak packs, and materials released by the Owner.
 
 It is intended to protect the Owner’s work, allow non-commercial community use and improvement, and strictly limit commercial and AI uses.
 
-> **Important:** This is a custom policy built on top of Creative Commons BY-NC-SA 4.0 principles with additional restrictions. Where there is any conflict, this Policy controls for the content covered here.
+> **Important:** This is a custom policy built on top of Creative Commons BY-NC-SA 4.0 principles with additional restrictions. Where there is any conflict, **this Policy controls** for the content covered here.
+
+---
+
+## Table of Contents
+
+- [0. TL;DR (Non-Legally Binding Summary)](#0-tldr-non-legally-binding-summary)
+- [1. Definitions](#1-definitions)
+- [2. Non-Commercial Use and Exclusive Commercial Rights](#2-non-commercial-use-and-exclusive-commercial-rights)
+- [3. Scope of Covered Content (GitHub + Discord + Mirrors)](#3-scope-of-covered-content-github--discord--mirrors)
+- [4. Attribution Requirements](#4-attribution-requirements)
+- [5. Substantial Use vs Minimal Quotation](#5-substantial-use-vs-minimal-quotation)
+- [6. Derivative Works, Translations, and Reformatting](#6-derivative-works-translations-and-reformatting)
+- [7. Third-Party Content, Links, and Tools](#7-third-party-content-links-and-tools)
+- [8. GitHub Forks, Clones, Issues, and Gists](#8-github-forks-clones-issues-and-gists)
+- [9. Member Content and License to the Owner](#9-member-content-and-license-to-the-owner)
+- [10. AI Scraping, Training, Embeddings, and Automated Use](#10-ai-scraping-training-embeddings-and-automated-use)
+- [11. Watermarking, Fingerprinting, and Technical Tracing](#11-watermarking-fingerprinting-and-technical-tracing)
+- [12. Requesting Exceptions or Commercial Licenses](#12-requesting-exceptions-or-commercial-licenses)
+- [13. No Endorsement or Implied Partnership](#13-no-endorsement-or-implied-partnership)
+- [14. System Risk and User Responsibility](#14-system-risk-and-user-responsibility)
+- [15. No Illegal Use or ToS Violations](#15-no-illegal-use-or-tos-violations)
+- [16. Enforcement, Termination, and Remedies](#16-enforcement-termination-and-remedies)
+- [17. Governing Law and Jurisdiction](#17-governing-law-and-jurisdiction)
+- [18. Changes to This Policy](#18-changes-to-this-policy)
+- [19. No Waiver, Severability, and Policy Precedence](#19-no-waiver-severability-and-policy-precedence)
+- [20. Not Legal Advice](#20-not-legal-advice)
 
 ---
 
@@ -20,7 +46,7 @@ It is intended to protect the Owner’s work, allow non-commercial community use
 - You can **share and improve** them **non-commercially**, with **proper attribution**.
 - You **cannot**:
   - Sell this content or use it in paid tiers, Patreon packs, or similar;
-  - Use it in AI training, datasets, embeddings, or model prompts (for 10 years), unless the Owner explicitly allows it;
+  - Use it in AI training, datasets, embeddings, or models (for 10 years) unless explicitly allowed by the Owner;
   - Remove attribution, watermarks, or invisible markers;
   - Claim this work as your own or suggest any “official partnership” if you don’t have one.
 - The Owner keeps **exclusive commercial rights** and may use both Owner and Member content commercially.
@@ -33,10 +59,11 @@ It is intended to protect the Owner’s work, allow non-commercial community use
 
 For the purposes of this Policy:
 
-- **Owner**: The person controlling this project and repository, currently **Pppp1116**.
-- **Project**: This repository and its associated content, including scripts, docs, guides, issues, and discussions.
-- **Official Discord**: The associated Discord server and its channels, messages, attachments, and files:
-  - `https://discord.gg/KPZKF6RB78`
+- **Owner**: The person controlling this project and repository, identified publicly as **“Pppp1116”**.
+- **Project**: This repository and its associated content, including scripts, docs, guides, issues, discussions, and any related materials.
+- **Official Discord**: The associated Discord server and its channels, messages, attachments, and files:  
+  - Server name: **“The PCs Secret”**  
+  - Invite link: `https://discord.gg/avxB63dY2T`
 - **Content**: Any text, code, configuration, registry keys, values, comments, documentation, images, or other material created or shared by the Owner or within the Project/Official Discord.
 - **Owner Content**: Content originally created or curated by the Owner.
 - **Member Content**: Content posted by other users (members) in the Official Discord or contributed to the repository.
@@ -82,10 +109,10 @@ Ad-supported educational content (for example, a YouTube video or blog post) may
    - It is not just a re-upload, mirror, or read-through of the material or scripts; and
 2. **Proper attribution** is given as defined in Section 4; and
 3. The channel, site, or creator does **not**:
-   - Sell or bundle tweak packs based on this project;  
+   - Sell or bundle tweak packs based on this Project;  
    - Gate “preset bundles” or “full configs” derived from this work behind donations, memberships, or subscriptions.
 
-If you are unsure whether your use is non-commercial, assume that it is **not allowed** and request permission (see Section 11).
+If you are unsure whether your use is non-commercial, assume that it is **not allowed** and request permission (see Section 12).
 
 ---
 
@@ -95,7 +122,7 @@ This Policy applies to all related content produced by or for the Project, inclu
 
 - Files, scripts, docs, and data in this GitHub repository;
 - Git commits, Issues, Pull Requests, Discussions, and Wiki pages;
-- Messages, attachments, configuration files, guides, and tweak packs shared in the Official Discord;
+- Messages, attachments, configuration files, guides, and tweak packs shared in the Official Discord **“The PCs Secret”**;
 - Any official documents, preset packs, or tweak collections released under the Project name or branding on any platform.
 
 If it comes from the Owner or is branded as part of this Project, **this Policy applies**, regardless of the platform.
@@ -108,11 +135,11 @@ Whenever you use, share, or build upon Owner Content or substantial Member Conte
 
 At a minimum, your attribution must include:
 
-- The Owner’s username: **Pppp1116**  
+- The Owner’s public identifier: **“Pppp1116” (Discord & GitHub handle)**  
 - A link to this repository:  
   `https://github.com/Pppp1116/content-license-policy`  
-- A link to the Official Discord server:  
-  `https://discord.gg/KPZKF6RB78`  
+- A link to the Official Discord server **“The PCs Secret”**:  
+  `https://discord.gg/avxB63dY2T`  
 - A clear statement that the original content or discovery belongs to the Owner (and/or named Member, where applicable), for example:  
   > “Original tweak/research by Pppp1116 (and contributors, see repo).”
 
@@ -122,7 +149,14 @@ Attribution must:
 - Not be hidden, minimized, or placed in an obscure location;
 - Not be removed in forks, mirrors, or translations.
 
-You may not represent the work as your own or downplay the Owner’s role in a way that would mislead users.
+### 4.1. License Notice Propagation
+
+If you redistribute Substantial Use of the Content (see Section 5), you must:
+
+- Include a copy of this Policy in your distribution; **or**
+- Provide a clear, working link to this Policy (for example, linking directly to this file in the repository).
+
+You may not re-license the Content under a different license or present it as being under more permissive terms.
 
 ---
 
@@ -155,7 +189,7 @@ Community experimentation and evolution of tweaks over time is welcome, as long 
 
 ### 6.2. Translations and Localizations
 
-Translating the content into another language is considered a **derivative work**.
+Translating the Content into another language is considered a **derivative work**.
 
 Any public distribution of translations (e.g., blogs, PDFs, GitHub repos, Discord posts in other servers) must:
 
@@ -167,7 +201,7 @@ For **large or standalone translations** (full guide PDF, full website mirror, m
 
 ### 6.3. Reformatting and Packaging
 
-You may privately reformat content (e.g., your own notes, local `.reg` files, local documentation) for personal use.
+You may privately reformat Content (e.g., your own notes, local `.reg` files, local documentation) for personal use.
 
 Any **public** redistribution of substantial or structured copies (e.g., downloadable script collections, preset bundles, server-ready `.reg/.bat` collections, packaged tweak sets) requires:
 
@@ -176,7 +210,34 @@ Any **public** redistribution of substantial or structured copies (e.g., downloa
 
 ---
 
-## 7. GitHub Forks, Clones, Issues, and Gists
+## 7. Third-Party Content, Links, and Tools
+
+The Project and the Official Discord **“The PCs Secret”** may include:
+
+- Links to third-party GitHub repositories, tools, scripts, guides, or websites;
+- References to content owned and maintained by other authors;
+- Embedded snippets that are clearly attributed to another creator or project.
+
+Unless explicitly stated otherwise, such third-party content:
+
+- **Is not owned by the Owner** and is **not** licensed under this Policy;
+- Remains subject to its own license and terms set by the original author or project;
+- Is only linked or referenced for convenience, testing, or discussion.
+
+This Policy **does not grant you any rights** to use third-party content. You must:
+
+- Check the original license of any external repository, tool, or guide;
+- Comply with that third-party license and their usage rules;
+- Not assume that a link or mention in **“The PCs Secret”** or this repository means you can reuse or redistribute that third-party content freely.
+
+Any link or reference to third-party content:
+
+- **Does not imply endorsement, partnership, or responsibility** by the Owner;
+- Does not transfer any intellectual property rights from the third party to you or to the Owner.
+
+---
+
+## 8. GitHub Forks, Clones, Issues, and Gists
 
 By forking, cloning, or copying this repository (including Issues, Discussions, and Wiki content), **you agree that all such copies remain fully subject to this Policy**.
 
@@ -184,19 +245,19 @@ GitHub’s technical ability to fork, clone, or create gists **does not grant yo
 
 - Use forks, mirrors, or gists to circumvent non-commercial restrictions;
 - Strip attribution or watermarks in a fork or mirror;
-- Re-license the content under a different license.
+- Re-license the Content under a different license.
 
 ---
 
-## 8. Member Content and License to the Owner
+## 9. Member Content and License to the Owner
 
-### 8.1. Member Ownership
+### 9.1. Member Ownership
 
 Members retain ownership of their own original content (e.g., discoveries, test results, guides) posted in the Official Discord or contributed to the repository.
 
-### 8.2. Member License to the Owner
+### 9.2. Member License to the Owner
 
-By posting Member Content in the Official Discord or contributing it to this repository, you grant the Owner a **perpetual, worldwide, non-exclusive license** to:
+By posting Member Content in the Official Discord **“The PCs Secret”** or contributing it to this repository, you grant the Owner a **perpetual, worldwide, non-exclusive license** to:
 
 - Use, modify, compile, and integrate the Member Content into the Project;
 - Publish and redistribute it as part of the Project or related projects;
@@ -206,9 +267,9 @@ Other users receive only the **non-commercial rights** described in this Policy.
 
 ---
 
-## 9. AI Scraping, Training, Embeddings, and Automated Use
+## 10. AI Scraping, Training, Embeddings, and Automated Use
 
-### 9.1. Ten-Year AI Usage Ban for Third Parties
+### 10.1. Ten-Year AI Usage Ban for Third Parties
 
 For a period of **ten (10) years** from the date of publication of any Content in this Project or in the Official Discord, **no person or entity other than the Owner** may use that Content for any AI-related purpose without explicit written permission from the Owner.
 
@@ -218,19 +279,19 @@ Prohibited AI uses include, but are not limited to:
 - Building or augmenting datasets;
 - Generating embeddings, vector representations, or feature extractions;
 - Automated summarization or large-scale extraction of patterns for model consumption;
-- Using the content as prompt source, context, or knowledge base in tools that expose it to third parties at scale.
+- Using the Content as prompt source, context, or knowledge base in tools that expose it to third parties at scale.
 
-### 9.2. Owner Exception
+### 10.2. Owner Exception
 
-The Owner may freely use Owner Content and Member Content (under the license in Section 8.2) for any AI-related purpose, including training, fine-tuning, evaluation, and hosting models.
+The Owner may freely use Owner Content and Member Content (under the license in Section 9.2) for any AI-related purpose, including training, fine-tuning, evaluation, and hosting models.
 
-### 9.3. No “Non-Commercial AI” Exception
+### 10.3. No “Non-Commercial AI” Exception
 
 There is **no automatic exception** for “non-commercial AI” or “academic research.” All AI-related uses by third parties require explicit written permission from the Owner.
 
 ---
 
-## 10. Watermarking, Fingerprinting, and Technical Tracing
+## 11. Watermarking, Fingerprinting, and Technical Tracing
 
 To enforce this Policy and verify authorship, the Owner may embed visible or invisible markers, including but not limited to:
 
@@ -247,11 +308,11 @@ The Owner may also use technical means (e.g., unique download links, fingerprint
 
 ---
 
-## 11. Requesting Exceptions or Commercial Licenses
+## 12. Requesting Exceptions or Commercial Licenses
 
 If you want to:
 
-- Use the content commercially;
+- Use the Content commercially;
 - Include it in paid memberships, Patreon tiers, or subscription models;
 - Publish large translations, full mirrors, or major derivative guides;
 - Use the Content in any AI-related way;
@@ -260,13 +321,13 @@ you must obtain **written permission** from the Owner **before** publishing or d
 
 To request permission, contact the Owner through:
 
-- The Official Discord server: `https://discord.gg/KPZKF6RB78`, or
-- Any contact method listed in this repository.
+- The Official Discord server **“The PCs Secret”**: `https://discord.gg/avxB63dY2T`, or  
+- Email: `usp9133@duck.com`.
 
 Your request should include:
 
 - Who you are and how to contact you;
-- Which content you want to use;
+- Which Content you want to use;
 - Where and how it will be published;
 - Whether and how it will be monetized.
 
@@ -274,7 +335,7 @@ The Owner may grant or refuse permission at their sole discretion and may impose
 
 ---
 
-## 12. No Endorsement or Implied Partnership
+## 13. No Endorsement or Implied Partnership
 
 You may not state or imply that you are:
 
@@ -284,11 +345,11 @@ You may not state or imply that you are:
 
 unless you have explicit written permission.
 
-Using the Owner’s name, branding, or server name in a way that suggests endorsement (e.g., “official tweaks,” “certified by Pppp1116”) is strictly prohibited.
+Using the Owner’s name, branding, or server name in a way that suggests endorsement (e.g., “official tweaks,” “certified by Pppp1116”, “The PCs Secret official pack”) is strictly prohibited.
 
 ---
 
-## 13. System Risk and User Responsibility
+## 14. System Risk and User Responsibility
 
 Registry edits, system tweaks, and configuration changes can:
 
@@ -297,13 +358,13 @@ Registry edits, system tweaks, and configuration changes can:
 - Trigger bans in online games or services;
 - Render a system unbootable if misused.
 
-By using any content from this Project or the Official Discord, **you accept full responsibility** for all results on your hardware, software, data, and accounts.
+By using any Content from this Project or the Official Discord **“The PCs Secret”**, **you accept full responsibility** for all results on your hardware, software, data, and accounts.
 
-The Owner and contributors provide all content **“as is”**, with **no warranties of any kind**, and are **not liable** for any direct, indirect, incidental, or consequential damage.
+The Owner and contributors provide all Content **“as is”**, with **no warranties of any kind**, and are **not liable** for any direct, indirect, incidental, or consequential damage.
 
 ---
 
-## 14. No Illegal Use or ToS Violations
+## 15. No Illegal Use or ToS Violations
 
 You may not use this Content to:
 
@@ -311,13 +372,13 @@ You may not use this Content to:
 - Violate the terms of service of operating systems, games, or online services;
 - Engage in any illegal activity under applicable law.
 
-If you choose to use any content in such ways, you do so entirely at your own risk, and you must not attribute such misuse to the Owner or the Project.
+If you choose to use any Content in such ways, you do so entirely at your own risk, and you must not attribute such misuse to the Owner or the Project.
 
 ---
 
-## 15. Enforcement, Termination, and Remedies
+## 16. Enforcement, Termination, and Remedies
 
-### 15.1. License Termination on Breach
+### 16.1. License Termination on Breach
 
 Any **material breach** of this Policy or the applicable license automatically and immediately **terminates all rights** previously granted to you to use, adapt, or redistribute the Content.
 
@@ -326,15 +387,15 @@ Upon written request from the Owner, you must promptly:
 - Remove and delete all copies of the affected Content that you control (repositories, websites, videos, documents, servers, etc.);
 - Cease any further use, distribution, or publication of the Content or its derivatives.
 
-### 15.2. Bans and Access Restrictions
+### 16.2. Bans and Access Restrictions
 
 The Owner may, at their discretion:
 
-- Ban users from the Official Discord;
+- Ban users from the Official Discord **“The PCs Secret”**;
 - Block or restrict access to Project resources;
 - Revoke any previously granted special permissions or exceptions.
 
-### 15.3. Financial Consequences and Legal Action
+### 16.3. Financial Consequences and Legal Action
 
 In addition to termination and takedown, the Owner reserves the right to seek:
 
@@ -344,7 +405,7 @@ In addition to termination and takedown, the Owner reserves the right to seek:
 
 ---
 
-## 16. Governing Law and Jurisdiction
+## 17. Governing Law and Jurisdiction
 
 This Policy is governed by and construed in accordance with the laws of **Portugal**.
 
@@ -352,15 +413,23 @@ Any disputes arising out of or in connection with this Policy, the Project, or t
 
 ---
 
-## 17. Changes to This Policy
+## 18. Changes to This Policy
 
-The Owner may update or modify this Policy from time to time. Significant changes may be announced in this repository and/or in the Official Discord.
+The Owner may update or modify this Policy from time to time. Significant changes may be announced in this repository and/or in the Official Discord **“The PCs Secret”**.
 
-- New content published after an update is subject to the updated Policy.
-- Previously distributed content remains governed by the Policy that was in effect at the time of its distribution, unless otherwise stated.
+- New Content published after an update is subject to the updated Policy.
+- Previously distributed Content remains governed by the Policy that was in effect at the time of its distribution, unless otherwise stated.
 
 ---
 
-## 18. Not Legal Advice
+## 19. No Waiver, Severability, and Policy Precedence
+
+- **No Waiver**: Failure by the Owner to enforce any provision of this Policy in a particular instance does **not** constitute a waiver of the right to enforce that provision or any other provision in the future.
+- **Severability**: If any part of this Policy is found invalid or unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect.
+- **Policy Precedence**: In case of any conflict between this Policy and any brief summary, FAQ, or informal explanation (including the TL;DR section), **this Policy text prevails**.
+
+---
+
+## 20. Not Legal Advice
 
 This Policy expresses the Owner’s intentions and conditions for use of the Content. It is not formal legal advice. If you need legal certainty for a specific use case, consult a qualified lawyer in your jurisdiction.
