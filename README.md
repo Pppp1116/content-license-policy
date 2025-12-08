@@ -77,7 +77,20 @@ access, or permanent removal from the community.
 
 ---
 
-## 5. Acceptance
+## 5. Limitation of Liability & Disclaimer
+
+ALL content, guides, research, and software provided within this community (whether by the Server Owner or Members) are provided **“as-is” without any warranty** of any kind.
+
+By using this content, you agree that:
+* **You represent the sole responsible party** for any changes made to your hardware or software.
+* The Server Owner, Moderation Team, and original authors are **NOT liable** for any damage, including but not limited to: hardware failure, operating system instability, data loss, ban from third-party services, or voiding of warranties.
+
+Use all findings at your own risk.
+
+
+---
+
+## 6. Acceptance
 
 By submitting technical content, members acknowledge and agree to this policy.
 Policy may be updated for clarity, compliance, or community protection.
