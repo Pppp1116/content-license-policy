@@ -66,16 +66,32 @@ By using this content, you agree that:
 
 ---
 
-## 6. Enforcement
+## 6. Indemnification
 
-Failure to adhere to this policy—specifically regarding the theft of content for prohibited commercial use or failure to provide proper attribution—may result in:
-- Immediate removal of access to the community (Ban).
-- Public designation of the offending party to prevent further community harm.
-- Reporting to relevant platforms (e.g., GitHub, Discord, Patreon) for copyright infringement.
+You agree to indemnify, defend, and hold harmless the Server Owner, Moderation Team, and community contributors from and against any and all claims, liabilities, damages, losses, or expenses (including reasonable legal fees) arising out of or in any way connected with:
+- Your access to or use of the content provided here;
+- Your violation of this Policy;
+- Your violation of any third-party right, including without limitation any intellectual property right, publicity, confidentiality, property, or privacy right.
 
 ---
 
-## 7. Acceptance of Terms
+## 7. Enforcement & Termination
+
+The Server Owner reserves the right to enforce this policy **at their sole discretion**. Failure to adhere to these terms—specifically regarding commercial theft or failure to attribute—may result in:
+- Immediate removal of access to the community (Ban) without prior warning.
+- Public designation of the offending party.
+- Reporting to relevant platforms (e.g., GitHub, Discord, Patreon) for copyright infringement.
+
+We reserve the right to revoke access to any user at any time, for any reason, with or without notice.
+
+---
+
+## 8. Severability
+
+If any provision of this Policy is held to be invalid or unenforceable, such provision will be struck and the remaining provisions will remain in full force and effect.
+
+---
+
+## 9. Acceptance of Terms
 
 By participating in the community and submitting technical content, members acknowledge and agree to the terms set forth in this document. This policy may be updated to reflect regulatory, operational, or community requirements.
-
