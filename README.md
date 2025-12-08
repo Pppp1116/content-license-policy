@@ -151,7 +151,7 @@ The Server Owner enforces this policy at their **sole discretion**.
 
 ## 11. Governing Law & Dispute Resolution
 
-Disputes related to this Policy or community are governed by the laws of **[Insert Your Country/State Here]**, without conflict of laws rules.
+Disputes related to this Policy or community are governed by the laws of **Portugal**, without conflict of laws rules.
 
 - **Informal Resolution**: Attempt good-faith contact with the Server Owner before legal action (e.g., via email, allowing 30 days response).
 - **Jurisdiction**:  Exclusive in the courts of Lisbon, Portugal
