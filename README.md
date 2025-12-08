@@ -1,185 +1,366 @@
-# Content License, Intellectual Property & Safety Policy
+# Content License & Usage Policy
 
-**Last updated: December 8, 2025**  
-**Version: 1.0** (Initial release. Future changes will be tracked in the Change Log below and announced via the associated Discord community and GitHub releases.)
+_Last updated: YYYY-MM-DD_
 
-This policy governs the handling, licensing, use, and liability of all technical content, software, and research shared within this project, its repository, and associated Discord community. It promotes open, educational collaboration while safeguarding intellectual property, ensuring legal compliance, and mitigating risks.
+This document governs the use of:
 
-## Table of Contents
-- [Executive Summary](#executive-summary)
-- [1. Licensing of Original Content by the Server Owner](#1-licensing-of-original-content-by-the-server-owner)
-- [2. Member-Submitted Content & Rights](#2-member-submitted-content--rights)
-- [3. AI Scraping and Training Policy](#3-ai-scraping-and-training-policy)
-- [4. Feedback and Suggestions](#4-feedback-and-suggestions)
-- [5. Reverse Engineering & Driver Modification Policy](#5-reverse-engineering--driver-modification-policy)
-- [6. Data Privacy & Log Files](#6-data-privacy--log-files)
-- [7. Exclusions (What is NOT Licensed)](#7-exclusions-what-is-not-licensed)
-- [8. Limitation of Liability (The "As-Is" Clause)](#8-limitation-of-liability-the-as-is-clause)
-- [9. Indemnification](#9-indemnification)
-- [10. Enforcement & Termination](#10-enforcement--termination)
-- [11. Governing Law & Dispute Resolution](#11-governing-law--dispute-resolution)
-- [12. Severability & Survival](#12-severability--survival)
-- [13. Acceptance](#13-acceptance)
-- [International Considerations](#international-considerations)
-- [Change Log](#change-log)
-- [Contact Information](#contact-information)
+- All content in this repository;
+- All related content shared in the official Discord server;
+- Any other official documents, tweak packs, and materials released by the Owner.
 
-## Executive Summary (TL;DR)
-- **Original Content by Owner**: Licensed under CC BY-NC-SA 4.0 – share and adapt non-commercially with attribution; derivatives must use the same license.
-- **Member Content**: Owned by you; grants community perpetual rights for archiving, adaptation, compilation, and educational sharing. No commercial use without your consent.
-- **AI Use**: Prohibited for commercial training or scraping; allowed for non-commercial research under CC terms.
-- **Feedback**: Voluntary ideas grant us rights to use without compensation.
-- **Reverse Engineering**: For education, interoperability, and fixes only. Share clean info (e.g., patches); no binaries or DRM bypass.
-- **Privacy & Risks**: Sanitize your shared data; use all content at your own risk – no warranties or liability for damages.
-- **Enforcement**: Zero tolerance for violations; bans at discretion.
-- **Disputes**: Informal resolution first; governed by [Insert Your Country] law.
-- **Acceptance**: By participating, you agree. Check for updates regularly.
+It is intended to protect the Owner’s work, allow non-commercial community use and improvement, and strictly limit commercial and AI uses.
 
-If you disagree, discontinue use immediately.
+> **Important:** This is a custom policy built on top of Creative Commons BY-NC-SA 4.0 principles with additional restrictions. Where there is any conflict, this Policy controls for the content covered here.
 
-## 1. Licensing of Original Content by the Server Owner
+---
 
-All original technical materials authored by the **Server Owner** – including discoveries, registry tweaks, documentation, guides, and utilities – are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.  
-[View License Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [View Full Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
+## 0. TL;DR (Non-Legally Binding Summary)
 
-**Permissions**:
-- **Share**: Copy and redistribute the material in any medium or format.
-- **Adapt**: Remix, transform, and build upon the material (e.g., translating a guide or integrating it into a tutorial).
+- You can **read, test, and learn from** the tweaks and research.
+- You can **share and improve** them **non-commercially**, with **proper attribution**.
+- You **cannot**:
+  - Sell this content or use it in paid tiers, Patreon packs, or similar;
+  - Use it in AI training, datasets, embeddings, or model prompts (for 10 years), unless the Owner explicitly allows it;
+  - Remove attribution, watermarks, or invisible markers;
+  - Claim this work as your own or suggest any “official partnership” if you don’t have one.
+- The Owner keeps **exclusive commercial rights** and may use both Owner and Member content commercially.
+- Violations can result in **immediate termination of rights, bans, takedowns, and claims for damages**.
+- Any dispute is governed by the laws and courts of **Lisbon, Portugal**.
 
-**Conditions**:
-- **Attribution**: Provide appropriate credit, such as including the Server Owner's username (Pppp1116), a link to this repository (https://github.com/Pppp1116/content-license-policy), and the original publication date. Do this in a reasonable manner without implying endorsement.
-- **NonCommercial**: Do not use for commercial purposes, including sales, paywalled content (e.g., Patreon exclusives), or sponsored promotions (where primary intent is monetary gain).
-- **ShareAlike**: If you remix, transform, or build upon the material, distribute your contributions under the same CC BY-NC-SA 4.0 license.
+---
 
-*Note: The Server Owner reserves the right to re-license their own original works under different terms at any time. This does not affect previously distributed copies, which remain under CC BY-NC-SA 4.0.*
+## 1. Definitions
 
-**AI-Assisted Content**: If AI tools are used, the content is original only if substantially modified by the Owner. Raw AI outputs must credit the tool (e.g., "Generated with assistance from Grok").
+For the purposes of this Policy:
 
-**Forks and Derivatives**: Forks of this repository must retain this policy file and clearly attribute any changes to the original (e.g., via Git commit messages or a CHANGES.md file).
+- **Owner**: The person controlling this project and repository, currently **Pppp1116**.
+- **Project**: This repository and its associated content, including scripts, docs, guides, issues, and discussions.
+- **Official Discord**: The associated Discord server and its channels, messages, attachments, and files:
+  - `https://discord.gg/KPZKF6RB78`
+- **Content**: Any text, code, configuration, registry keys, values, comments, documentation, images, or other material created or shared by the Owner or within the Project/Official Discord.
+- **Owner Content**: Content originally created or curated by the Owner.
+- **Member Content**: Content posted by other users (members) in the Official Discord or contributed to the repository.
+- **Non-Commercial Use**: Use that complies with Section 2.2 below.
+- **Substantial Use**: Use that goes beyond small quotations, as described in Section 5.
 
-## 2. Member-Submitted Content & Rights
+---
 
-Technical contributions submitted by members (e.g., chat messages, research notes, guides, code snippets) remain the intellectual property of the original author.
+## 2. Non-Commercial Use and Exclusive Commercial Rights
 
-By submitting content, you grant the Community and Server Owner a **perpetual, irrevocable, non-exclusive, royalty-free, worldwide license** to:
-1. **Archive and Display**: Retain and display the content for historical context and documentation, even if you leave the community (e.g., in searchable archives).
-2. **Adapt and Update**: Modify, translate, correct, or update the content (e.g., fixing errors or updating for new software versions) without further permission, while preserving original attribution.
-3. **Compile**: Incorporate your findings into official community guides or "Verified Findings" lists, with attribution (e.g., listing contributors alphabetically with links to original posts if available).
-4. **Redistribute**: Share the content externally for non-commercial educational purposes, always with proper attribution.
+### 2.1. Exclusive Commercial Rights (Owner)
 
-**Commercial Restriction**: Members and third parties may not harvest or use community content for commercial sale, paid courses, paywalled access (e.g., Patreon-locked guides), or sponsored content without the explicit written consent of the original author. Non-commercial uses include free blog posts or YouTube videos; contact authors for exceptions.
+All commercial rights in Owner Content are **exclusively reserved** by the Owner. This includes, without limitation:
 
-**Consent and Revocation**: Include "#licensed" in your submission to affirm explicit consent. Authors may request removal of non-archival content (e.g., for personal reasons), subject to Owner approval. Archived copies may be anonymized but not deleted.
+- Selling access to the content or derivative works;
+- Bundling tweak packs, presets, configs, or guides into paid products;
+- Providing “premium” or subscription access (Patreon, Discord roles, memberships, etc.) based on Owner Content;
+- Using the content as part of any paid service, consultancy, or course.
 
-**Collaborative Content**: For joint contributions (e.g., group-edited guides), all authors must consent to external sharing. In disputes, the Server Owner decides.
+Unless you have explicit written permission from the Owner, **you receive no commercial rights at all**.
 
-**IP Infringement Reporting**: If you believe your content is misused, report via [contact email/DM] with evidence; investigations will occur within 7 business days.
+### 2.2. Extended Definition of Non-Commercial Use
 
-## 3. AI Scraping and Training Policy
+For this Policy, “Non-Commercial” means **you may not receive direct or indirect monetary compensation** in exchange for access to, or use of, the content.
 
-The content of this project is protected under the NonCommercial (NC) condition of the CC BY-NC-SA 4.0 license.
+This includes, but is not limited to:
 
-1. **Commercial AI Training Prohibited**: Using content from this repository for **commercial machine learning model training, data scraping, or data mining** is considered commercial use and is **strictly prohibited** without a separate, negotiated licensing agreement from the Server Owner.
-2. **Non-Commercial Research**: Use for academic, non-profit, or personal research purposes is permitted under CC BY-NC-SA 4.0, with attribution.
-3. **Detection and Enforcement**: We may employ watermarks or monitoring to detect unauthorized AI use. Violations may lead to legal action.
+- Selling the content or derivatives;
+- Charging for access to tweak packs, scripts, or configuration bundles;
+- Gating content behind:
+  - Patreon tiers,
+  - Ko-fi memberships,
+  - Paid Discord roles,
+  - Subscription websites, or similar models;
+- “Support me and I’ll give you my tweak pack” schemes.
 
-## 4. Feedback and Suggestions
+#### 2.2.1. Limited Allowance for Ad-Supported Educational Content
 
-If you provide feedback, ideas, or suggestions regarding the project, server organization, or technical discoveries ("Feedback"), you acknowledge that such Feedback is non-confidential. You grant the Server Owner an unrestricted, perpetual, royalty-free, worldwide right to use, implement, modify, and incorporate your Feedback for any purpose, without compensation or credit obligation to you.
+Ad-supported educational content (for example, a YouTube video or blog post) may qualify as non-commercial **only if all of the following conditions are met**:
 
-**Examples**: Suggesting a new tweak or community feature grants us rights to develop it.
+1. The content is genuinely **transformative**:
+   - It explains, tests, or analyzes the tweaks;  
+   - It is not just a re-upload, mirror, or read-through of the material or scripts; and
+2. **Proper attribution** is given as defined in Section 4; and
+3. The channel, site, or creator does **not**:
+   - Sell or bundle tweak packs based on this project;  
+   - Gate “preset bundles” or “full configs” derived from this work behind donations, memberships, or subscriptions.
 
-## 5. Reverse Engineering & Driver Modification Policy
+If you are unsure whether your use is non-commercial, assume that it is **not allowed** and request permission (see Section 11).
 
-To ensure compliance with the **DMCA (USA, 17 U.S.C. § 1201)**, **EU Software Directive (2009/24/EC, Article 6)**, and other international laws, the following rules apply to all driver and software analysis:
+---
 
-1. **Interoperability & Optimization Only**: Reverse engineering is solely for **interoperability**, compatibility, error correction, bug fixing, or performance optimization where the vendor has not provided solutions.
-2. **"Clean Room" Distribution**:
-   - **ALLOWED**: Sharing hex offsets, registry keys, differential patches (`.bps`, `.diff`), configuration strings, pseudocode, or derived algorithms.
-   - **BANNED**: Uploading or hosting proprietary binaries (e.g., modified `.sys`, `.dll`, or `.exe` files) from vendors (NVIDIA, AMD, Microsoft, etc.).
-3. **No DRM Circumvention**: We do not condone, host, or permit discussions on bypassing Digital Rights Management (DRM), license checks, or anti-cheat software (e.g., limited to reporting bugs to vendors).
-4. **Educational Intent**: Findings are for educational research. Users must verify compliance with target software EULAs.
-5. **Safety Requirements**: Shared tweaks must include warnings (e.g., "This may cause instability") and reversal instructions (e.g., "To undo: delete this key").
-6. **Open-Source Alternatives**: Encouraged where possible (e.g., linking to OSS drivers).
+## 3. Scope of Covered Content (GitHub + Discord + Mirrors)
 
-## 6. Data Privacy & Log Files
+This Policy applies to all related content produced by or for the Project, including but not limited to:
 
-In troubleshooting, members may share system logs (e.g., DXDiag, Event Viewer, benchmarks).
+- Files, scripts, docs, and data in this GitHub repository;
+- Git commits, Issues, Pull Requests, Discussions, and Wiki pages;
+- Messages, attachments, configuration files, guides, and tweak packs shared in the Official Discord;
+- Any official documents, preset packs, or tweak collections released under the Project name or branding on any platform.
 
-- **User Responsibility**: You must **sanitize** (remove) personal data like real names, IP addresses, serial numbers, or emails before uploading. Use tools like redaction software if needed.
-- **No Liability**: The Server Owner and Moderation Team are not responsible for data leaks from unsanitized uploads.
-- **GDPR/Privacy Compliance**: If you're in the EU or similar, ensure your shares comply with data protection laws. We do not collect personal data intentionally.
+If it comes from the Owner or is branded as part of this Project, **this Policy applies**, regardless of the platform.
 
-## 7. Exclusions (What is NOT Licensed)
+---
 
-The licenses above **do not apply** to:
-- **Confidential Information**: Leaked closed-beta drivers, NDAs, or trade secrets.
-- **Proprietary Assets**: Screenshots of private codebases or decompiled output infringing copyrights.
-- **Third-Party Links**: External repositories, hosted media, or linked content.
-- **Malicious Content**: Anything intended to harm systems (e.g., malware disguised as tweaks).
+## 4. Attribution Requirements
 
-## 8. Limitation of Liability (The "As-Is" Clause)
+Whenever you use, share, or build upon Owner Content or substantial Member Content, you must clearly and visibly attribute the original source.
 
-**READ CAREFULLY**: ALL content, scripts, registry files, and advice are provided **“as-is” without warranty of any kind**, express or implied, including fitness for a particular purpose.
+At a minimum, your attribution must include:
 
-By applying any tweak or configuration, you acknowledge:
-1. **Full Risk Assumption**: For your hardware, software, and data.
-2. **No Liability For**:
-   - Hardware damage (e.g., from overclocking/undervolting).
-   - OS corruption or boot loops.
-   - Data loss or breaches.
-   - Bans/suspensions from services (e.g., anti-cheat).
-   - Warranty voiding.
+- The Owner’s username: **Pppp1116**  
+- A link to this repository:  
+  `https://github.com/Pppp1116/content-license-policy`  
+- A link to the Official Discord server:  
+  `https://discord.gg/KPZKF6RB78`  
+- A clear statement that the original content or discovery belongs to the Owner (and/or named Member, where applicable), for example:  
+  > “Original tweak/research by Pppp1116 (and contributors, see repo).”
 
-**Do not apply modifications if you do not accept these risks.**
+Attribution must:
 
-## 9. Indemnification
+- Be visible wherever the content is used or displayed (e.g., video description, blog article, README, script header, PDF intro);
+- Not be hidden, minimized, or placed in an obscure location;
+- Not be removed in forks, mirrors, or translations.
 
-You agree to indemnify and hold harmless the Server Owner, Moderation Team, and Contributors from any claims, damages, legal fees, or liabilities arising from:
-- Your policy violations.
-- Misuse of provided information.
-- Infringement of third-party rights (e.g., EULA breaches).
+You may not represent the work as your own or downplay the Owner’s role in a way that would mislead users.
 
-This includes defending us at your expense.
+---
 
-## 10. Enforcement & Termination
+## 5. Substantial Use vs Minimal Quotation
 
-The Server Owner enforces this policy at their **sole discretion**.
-- **Zero Tolerance**: For malware, illegal content, stolen assets, or repeated violations – immediate ban.
-- **Ban Authority**: Community access is a privilege. We may remove users anytime, for any reason, without notice or appeal.
-- **Appeals Process**: Limited to email requests; decisions are final.
+Small quotations for commentary, criticism, or review (e.g., a few lines in an article explaining a concept) may be acceptable if proper attribution is provided.
 
-## 11. Governing Law & Dispute Resolution
+However, the following are considered **Substantial Use** and must fully comply with this Policy (non-commercial, attribution, no AI, etc.):
 
-Disputes related to this Policy or community are governed by the laws of **Portugal**, without conflict of laws rules.
+- Copying or republishing complete guides or large portions of them;
+- Reproducing full `.reg`, `.bat`, `.ps1`, or similar files, or large sections;
+- Republishing curated lists of registry keys, values, or settings derived from the Project;
+- Packaging multiple tweaks or discoveries from the Project into “packs”, “presets”, or “config bundles.”
 
-- **Informal Resolution**: Attempt good-faith contact with the Server Owner before legal action (e.g., via email, allowing 30 days response).
-- **Jurisdiction**:  Exclusive in the courts of Lisbon, Portugal
+When in doubt, treat your use as **Substantial Use**.
 
-- **No Class Actions**: Disputes on an individual basis only.
+---
 
-## 12. Severability & Survival
+## 6. Derivative Works, Translations, and Reformatting
 
-- **Severability**: If any provision is unenforceable, the rest remain in effect. We'll replace invalid parts with similar enforceable ones.
-- **Survival**: Sections on licenses (2), liability (8), indemnification (9), and governing law (11) survive termination of access.
+### 6.1. Derivative Works (Tweaks and Improvements)
 
-## 13. Acceptance
+You are allowed to **experiment**, **modify**, and **improve** registry keys, configurations, and tweaks **for non-commercial purposes**, and to share those improvements non-commercially, provided that:
 
-By joining the server, viewing this repository, or submitting content, you signify acceptance of this policy. If you do not agree, discontinue use immediately.
+1. You give full attribution as in Section 4;
+2. You do not sell or gate the derivatives;
+3. You do not remove or hide markers, comments, or signatures from the original.
 
-We recommend reviewing periodically for updates.
+Community experimentation and evolution of tweaks over time is welcome, as long as it remains non-commercial and properly credited.
 
-## International Considerations
+### 6.2. Translations and Localizations
 
-This policy complies with major frameworks (e.g., US DMCA, EU GDPR, CC licenses) but users must ensure local law compliance. Translations available upon request; English version prevails.
+Translating the content into another language is considered a **derivative work**.
 
-## Change Log
+Any public distribution of translations (e.g., blogs, PDFs, GitHub repos, Discord posts in other servers) must:
 
-- **Version 1.0** (December 8, 2025): Initial policy release.
+- Preserve full attribution (Section 4);
+- Clearly state that it is a **translation** of original work by the Owner (and/or Member);
+- Not misrepresent the translation as original research.
 
-## Contact Information
+For **large or standalone translations** (full guide PDF, full website mirror, multi-post series, etc.), **prior written approval from the Owner is required**.
 
-For questions, reports, or consents:  
-- Discord:   https://discord.gg/KPZKF6RB78
-- Email:   usp9133@duck.com
-- GitHub Issues: Open an issue in this repo for policy suggestions.
+### 6.3. Reformatting and Packaging
+
+You may privately reformat content (e.g., your own notes, local `.reg` files, local documentation) for personal use.
+
+Any **public** redistribution of substantial or structured copies (e.g., downloadable script collections, preset bundles, server-ready `.reg/.bat` collections, packaged tweak sets) requires:
+
+- Prior written consent from the Owner;  
+- Full compliance with attribution and non-commercial rules.
+
+---
+
+## 7. GitHub Forks, Clones, Issues, and Gists
+
+By forking, cloning, or copying this repository (including Issues, Discussions, and Wiki content), **you agree that all such copies remain fully subject to this Policy**.
+
+GitHub’s technical ability to fork, clone, or create gists **does not grant you any rights** beyond those explicitly allowed here. You may not:
+
+- Use forks, mirrors, or gists to circumvent non-commercial restrictions;
+- Strip attribution or watermarks in a fork or mirror;
+- Re-license the content under a different license.
+
+---
+
+## 8. Member Content and License to the Owner
+
+### 8.1. Member Ownership
+
+Members retain ownership of their own original content (e.g., discoveries, test results, guides) posted in the Official Discord or contributed to the repository.
+
+### 8.2. Member License to the Owner
+
+By posting Member Content in the Official Discord or contributing it to this repository, you grant the Owner a **perpetual, worldwide, non-exclusive license** to:
+
+- Use, modify, compile, and integrate the Member Content into the Project;
+- Publish and redistribute it as part of the Project or related projects;
+- Use it **commercially** as part of Owner products, services, or materials.
+
+Other users receive only the **non-commercial rights** described in this Policy. Member Content is **not** automatically free for others to monetize.
+
+---
+
+## 9. AI Scraping, Training, Embeddings, and Automated Use
+
+### 9.1. Ten-Year AI Usage Ban for Third Parties
+
+For a period of **ten (10) years** from the date of publication of any Content in this Project or in the Official Discord, **no person or entity other than the Owner** may use that Content for any AI-related purpose without explicit written permission from the Owner.
+
+Prohibited AI uses include, but are not limited to:
+
+- Training, fine-tuning, or evaluating machine learning models (LLMs, diffusion models, recommendation systems, etc.);
+- Building or augmenting datasets;
+- Generating embeddings, vector representations, or feature extractions;
+- Automated summarization or large-scale extraction of patterns for model consumption;
+- Using the content as prompt source, context, or knowledge base in tools that expose it to third parties at scale.
+
+### 9.2. Owner Exception
+
+The Owner may freely use Owner Content and Member Content (under the license in Section 8.2) for any AI-related purpose, including training, fine-tuning, evaluation, and hosting models.
+
+### 9.3. No “Non-Commercial AI” Exception
+
+There is **no automatic exception** for “non-commercial AI” or “academic research.” All AI-related uses by third parties require explicit written permission from the Owner.
+
+---
+
+## 10. Watermarking, Fingerprinting, and Technical Tracing
+
+To enforce this Policy and verify authorship, the Owner may embed visible or invisible markers, including but not limited to:
+
+- Invisible characters or structured formatting;
+- Signature comments, hashes, or unique IDs;
+- Metadata or characteristic phrasing patterns.
+
+You may **not**:
+
+- Remove, alter, obfuscate, or attempt to strip such markers;
+- Use tools or methods specifically aimed at erasing or bypassing these markers.
+
+The Owner may also use technical means (e.g., unique download links, fingerprinting, similarity detection) to detect large-scale copying or unauthorized AI use. These measures are used solely for abuse detection and enforcement.
+
+---
+
+## 11. Requesting Exceptions or Commercial Licenses
+
+If you want to:
+
+- Use the content commercially;
+- Include it in paid memberships, Patreon tiers, or subscription models;
+- Publish large translations, full mirrors, or major derivative guides;
+- Use the Content in any AI-related way;
+
+you must obtain **written permission** from the Owner **before** publishing or deploying.
+
+To request permission, contact the Owner through:
+
+- The Official Discord server: `https://discord.gg/KPZKF6RB78`, or
+- Any contact method listed in this repository.
+
+Your request should include:
+
+- Who you are and how to contact you;
+- Which content you want to use;
+- Where and how it will be published;
+- Whether and how it will be monetized.
+
+The Owner may grant or refuse permission at their sole discretion and may impose additional conditions.
+
+---
+
+## 12. No Endorsement or Implied Partnership
+
+You may not state or imply that you are:
+
+- Officially endorsed by the Owner;
+- Officially partnered with the Project; or
+- Providing “official” or “certified” tweaks, builds, or packs,
+
+unless you have explicit written permission.
+
+Using the Owner’s name, branding, or server name in a way that suggests endorsement (e.g., “official tweaks,” “certified by Pppp1116”) is strictly prohibited.
+
+---
+
+## 13. System Risk and User Responsibility
+
+Registry edits, system tweaks, and configuration changes can:
+
+- Cause instability, crashes, or performance regressions;
+- Lead to data loss or corruption;
+- Trigger bans in online games or services;
+- Render a system unbootable if misused.
+
+By using any content from this Project or the Official Discord, **you accept full responsibility** for all results on your hardware, software, data, and accounts.
+
+The Owner and contributors provide all content **“as is”**, with **no warranties of any kind**, and are **not liable** for any direct, indirect, incidental, or consequential damage.
+
+---
+
+## 14. No Illegal Use or ToS Violations
+
+You may not use this Content to:
+
+- Circumvent DRM, anti-cheat systems, or other technical protection measures;
+- Violate the terms of service of operating systems, games, or online services;
+- Engage in any illegal activity under applicable law.
+
+If you choose to use any content in such ways, you do so entirely at your own risk, and you must not attribute such misuse to the Owner or the Project.
+
+---
+
+## 15. Enforcement, Termination, and Remedies
+
+### 15.1. License Termination on Breach
+
+Any **material breach** of this Policy or the applicable license automatically and immediately **terminates all rights** previously granted to you to use, adapt, or redistribute the Content.
+
+Upon written request from the Owner, you must promptly:
+
+- Remove and delete all copies of the affected Content that you control (repositories, websites, videos, documents, servers, etc.);
+- Cease any further use, distribution, or publication of the Content or its derivatives.
+
+### 15.2. Bans and Access Restrictions
+
+The Owner may, at their discretion:
+
+- Ban users from the Official Discord;
+- Block or restrict access to Project resources;
+- Revoke any previously granted special permissions or exceptions.
+
+### 15.3. Financial Consequences and Legal Action
+
+In addition to termination and takedown, the Owner reserves the right to seek:
+
+- Disgorgement of profits from unauthorized use (including indirect revenues tied to misuse);
+- Statutory or actual damages where applicable;
+- Recovery of enforcement costs, including reasonable legal fees, to the extent permitted by law.
+
+---
+
+## 16. Governing Law and Jurisdiction
+
+This Policy is governed by and construed in accordance with the laws of **Portugal**.
+
+Any disputes arising out of or in connection with this Policy, the Project, or the Content shall be subject to the exclusive jurisdiction of the courts located in **Lisbon, Portugal**, without regard to conflict of law principles.
+
+---
+
+## 17. Changes to This Policy
+
+The Owner may update or modify this Policy from time to time. Significant changes may be announced in this repository and/or in the Official Discord.
+
+- New content published after an update is subject to the updated Policy.
+- Previously distributed content remains governed by the Policy that was in effect at the time of its distribution, unless otherwise stated.
+
+---
+
+## 18. Not Legal Advice
+
+This Policy expresses the Owner’s intentions and conditions for use of the Content. It is not formal legal advice. If you need legal certainty for a specific use case, consult a qualified lawyer in your jurisdiction.
