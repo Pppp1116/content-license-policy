@@ -12,7 +12,8 @@ It is intended to:
 
 - Protect the Owner’s work;
 - Allow strictly **non-commercial** community use and improvement; and
-- Strongly restrict **commercial** and **AI-related** use.
+- Strongly restrict **commercial** and **AI-related** use;
+- Clarify that the Project and server exist primarily for **educational and research purposes** related to system behavior, performance, and configuration, and do **not** provide professional advice or guaranteed results.
 
 > **Important:** This is a custom policy inspired by Creative Commons BY-NC-SA 4.0, but it is **not** a standard Creative Commons license. For the Content covered here, **only this Policy applies**. In any conflict between this Policy and any external template, summary, or license label, **this Policy prevails**.
 
@@ -27,6 +28,8 @@ By accessing, using, copying, or distributing any Content, **you agree to be bou
 - [1A. License Grant and Reservation of Rights](#1a-license-grant-and-reservation-of-rights)
 - [2. Non-Commercial Use and Exclusive Commercial Rights](#2-non-commercial-use-and-exclusive-commercial-rights)
 - [3. Scope of Covered Content (GitHub + Discord + Mirrors)](#3-scope-of-covered-content-github--discord--mirrors)
+- [3A. Private Channels, Early-Access Content, and Competing Projects](#3a-private-channels-early-access-content-and-competing-projects)
+- [3B. Access to the Official Discord and Project Resources](#3b-access-to-the-official-discord-and-project-resources)
 - [4. Attribution Requirements](#4-attribution-requirements)
 - [5. Substantial Use vs Minimal Quotation](#5-substantial-use-vs-minimal-quotation)
 - [6. Derivative Works, Translations, and Reformatting](#6-derivative-works-translations-and-reformatting)
@@ -39,17 +42,19 @@ By accessing, using, copying, or distributing any Content, **you agree to be bou
 - [13. No Endorsement or Implied Partnership](#13-no-endorsement-or-implied-partnership)
 - [13A. Trademarks, Names, and Branding](#13a-trademarks-names-and-branding)
 - [14. System Risk and User Responsibility](#14-system-risk-and-user-responsibility)
+- [14A. Research and Reverse Engineering Context](#14a-research-and-reverse-engineering-context)
 - [15. No Illegal Use or ToS Violations](#15-no-illegal-use-or-tos-violations)
 - [16. Enforcement, Termination, and Remedies](#16-enforcement-termination-and-remedies)
 - [17. Governing Law and Jurisdiction](#17-governing-law-and-jurisdiction)
 - [18. Changes to This Policy](#18-changes-to-this-policy)
 - [19. No Waiver, Severability, and Policy Precedence](#19-no-waiver-severability-and-policy-precedence)
-- [20. Not Legal Advice](#20-not-legal-advice)
+- [20. Not Professional Advice](#20-not-professional-advice)
 
 ---
 
 ## 0. TL;DR (Non-Legally Binding Summary)
 
+- The Project and server exist mainly for **education and research** into system behavior, performance, and configuration.
 - You can **read, test, and learn from** the tweaks and research.
 - You can **share and improve** them **non-commercially**, with **proper attribution**.
 - You **cannot**:
@@ -58,6 +63,7 @@ By accessing, using, copying, or distributing any Content, **you agree to be bou
   - Remove attribution, watermarks, or invisible markers;
   - Claim this work as your own or suggest any “official partnership” if you don’t have one.
 - The Owner keeps **exclusive commercial rights** and may use both Owner and Member content commercially.
+- Registry edits and low-level tweaks can break things. You use them **at your own risk**. No performance result is guaranteed.
 - Violations can result in **immediate termination of rights, bans, takedowns, and claims for damages**.
 - Any dispute is governed by the laws and courts of **Lisbon, Portugal**.
 
@@ -135,6 +141,12 @@ All commercial rights in Owner Content are **exclusively reserved** by the Owner
 
 Unless you have explicit written permission from the Owner, **you receive no commercial rights at all**.
 
+For the avoidance of doubt, the following are always considered **commercial uses** and are not permitted without explicit written permission from the Owner:
+
+- Offering paid “PC optimization”, “tuning”, “coaching”, or “consultancy” services that substantially rely on the Content (whether or not the Content is directly shown to the client);
+- Selling or advertising “FPS boost”, “competitive advantage”, or similar services based on tweaks or configurations derived from the Content;
+- Operating any paid Discord server, Patreon, membership, or course where the main value proposition is access to tweaks, presets, or methodologies substantially derived from this Project.
+
 ### 2.2. Extended Definition of Non-Commercial Use
 
 For this Policy, “Non-Commercial” means **you may not receive direct or indirect monetary compensation** in exchange for access to, or use of, the Content, including any form of money, cryptocurrency, credits, gifts, sponsorships, affiliate commissions, or other valuable consideration, whether paid by end-users, sponsors, or platforms.
@@ -185,6 +197,61 @@ This Policy applies to all related Content produced by or for the Project, inclu
 - Any official documents, preset packs, or tweak collections released under the Project name or branding on any platform.
 
 If it comes from the Owner or is branded as part of this Project, **this Policy applies**, regardless of the platform.
+
+---
+
+## 3A. Private Channels, Early-Access Content, and Competing Projects
+
+### 3A.1. Private and Early-Access Content
+
+In addition to the general definition of Content in Section 1, some materials may be shared by the Owner in:
+
+- Private or role-restricted channels in the Official Discord (for example, channels labelled or described as “early access”, “lab”, “testing”, “beta”, “internal”, or similar); or
+- Direct messages (DMs) or small group chats initiated or explicitly approved by the Owner for testing or review.
+
+Such materials are referred to in this Policy as **Private / Early-Access Content**.
+
+Unless the Owner expressly states otherwise in writing, your license to Private / Early-Access Content is limited to:
+
+- Personal review and testing on your own systems; and
+- Private discussion within the specific channels or groups where the Owner shared that Content.
+
+You may **not**, without explicit written permission from the Owner:
+
+- Repost, forward, or quote Private / Early-Access Content outside the specific channel(s) or DM(s) where it was originally shared (including other servers, social media, videos, or public repositories);
+- Share screenshots, exports, or copies of such Content;
+- Turn Private / Early-Access Content into public guides, packs, or videos, even if non-commercial.
+
+If you lose access to the relevant private channel(s) or are removed/banned from the Official Discord, you must not continue to use or redistribute any Private / Early-Access Content and should delete any copies you control, except to the extent you are required to retain them under applicable law.
+
+### 3A.2. Use of Content to Seed Competing Projects
+
+You may not systematically use the Content, including Private / Early-Access Content, to build, seed, or populate:
+
+- A competing Discord server or community whose primary purpose is to provide a substantially similar set of tweaks, presets, or methodologies; or
+- A competing project, website, or repository that substantially replicates the structure, scope, or key discoveries of this Project, such that it functions as a practical replacement for typical users.
+
+Normal non-commercial discussion, testing, and small-scale referencing of the Content in other communities is allowed (subject to this Policy and proper attribution). What is not allowed is large-scale copying or structured migration of knowledge with the intent of replicating or replacing this Project.
+
+---
+
+## 3B. Access to the Official Discord and Project Resources
+
+Access to the Official Discord **“The PCs Secret”**, including any roles, channels, or materials, is a privilege, not a right.
+
+Subject to applicable law and platform rules, the Owner may, at their discretion and without obligation to provide a detailed explanation:
+
+- Grant, restrict, or remove access to specific channels or roles;
+- Remove or ban users from the Official Discord;
+- Limit or revoke access to certain tools, files, or experimental content.
+
+Nothing in this Policy shall be interpreted as creating any right or expectation of continued access to:
+
+- The Official Discord or any of its channels;
+- Private / Early-Access Content as defined in Section 3A; or
+- Any future updates, tweaks, or discoveries.
+
+If your access is removed or restricted, you must comply with all relevant provisions of this Policy, including any obligations related to Private / Early-Access Content and license termination.
 
 ---
 
@@ -256,7 +323,8 @@ You are allowed to **experiment**, **modify**, and **improve** registry keys, co
 
 1. You give full attribution as in Section 4;
 2. You do not sell or gate the derivatives;
-3. You do not remove or hide markers, comments, or signatures from the original.
+3. You do not remove or hide markers, comments, or signatures from the original;
+4. You clearly indicate where you have modified, combined, or extended the original Content, for example by stating “based on tweaks by Pppp1116, modified by [your name]”, and you do not suggest or imply that the Owner has tested, approved, or endorsed your specific modifications or combinations.
 
 Community experimentation and evolution of tweaks over time is welcome, as long as it remains non-commercial and properly credited.
 
@@ -353,6 +421,13 @@ You also represent and warrant that:
 
 Other users receive only the **non-commercial rights** described in this Policy. Member Content is **not** automatically free for others to monetize.
 
+### 9.3. Member Content Responsibility and Moderation
+
+1. Each Member is solely responsible for their own Member Content. The Owner does not generally pre-screen Member Content and does not endorse, approve, or guarantee the accuracy, safety, or legality of any Member Content.
+2. Member Content may include opinions, interpretations, or experimental findings that are not verified by the Owner. You rely on such content at your own risk and must independently evaluate any technical claims before applying them.
+3. Subject to applicable law and platform rules, the Owner may, but is not obligated to, monitor, edit, or remove Member Content. The Owner may remove or restrict access to Member Content at any time, for any or no stated reason, including in response to complaints or potential legal issues.
+4. If you believe that any content in the Project or the Official Discord infringes your rights, violates applicable law, or is otherwise problematic, you may notify the Owner using the contact details in Section 12. Where reasonably appropriate, the Owner will review the complaint and may remove or restrict access to the relevant content in their discretion. Nothing in this Policy obligates the Owner to maintain, restore, or archive any removed content.
+
 ---
 
 ## 10. AI Scraping, Training, Embeddings, and Automated Use
@@ -402,6 +477,17 @@ You may **not**:
 The Owner may also use technical means (e.g., unique download links, fingerprinting, similarity detection) to detect large-scale copying or unauthorized AI use. These measures are used solely for abuse detection and enforcement.
 
 By using the Content, you acknowledge and agree that the Owner may analyze public materials and repositories for similarities or matches to the Content for the sole purpose of detecting unauthorized use or enforcing this Policy.
+
+### 11.1. Reverse Engineering of Owner Tools and Protections
+
+Except to the limited extent that applicable law expressly permits reverse engineering for interoperability or similar mandatory purposes, you may not:
+
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code, design, or underlying algorithms of any proprietary binaries, utilities, scripts delivered only in compiled form, or online services provided by the Owner, where such actions are taken for the purpose of:
+  - Circumventing technical protection, watermarking, or fingerprinting mechanisms;
+  - Removing or weakening license enforcement, access controls, or usage restrictions;
+  - Creating or seeding competing products or services based substantially on the Owner’s proprietary implementations.
+
+Nothing in this Section 11.1 is intended to restrict or chill lawful reverse engineering of third-party software (for example, operating systems, drivers, or games) that is not distributed by the Owner, provided that you still comply with all other parts of this Policy and any applicable third-party terms or laws.
 
 ---
 
@@ -479,7 +565,60 @@ Registry edits, system tweaks, and configuration changes can:
 
 By using any Content from this Project or the Official Discord **“The PCs Secret”**, **you accept full responsibility** for all results on your hardware, software, data, and accounts.
 
-The Owner and contributors provide all Content **“as is”**, with **no warranties of any kind**, and are **not liable** for any direct, indirect, incidental, or consequential damage.
+The Owner and contributors provide all Content **“as is”** and **“as available”**, with **no warranties of any kind**, whether express, implied, or statutory, including but not limited to any warranties of accuracy, non-infringement, merchantability, or fitness for a particular purpose.
+
+To the maximum extent permitted by law:
+
+- The Owner and contributors shall **not be liable** for any indirect, incidental, consequential, special, exemplary, or punitive damages, or for any loss of profits, revenue, data, or goodwill, arising out of or in connection with the Content or this Policy, even if advised of the possibility of such damages; and
+- The total aggregate liability of the Owner and contributors for any and all claims arising out of or relating to the Content or this Policy shall not exceed the greater of **(a) EUR 50** or **(b) the total amount you paid (if any) directly to the Owner for access to the Project**, in all cases and for all time.
+
+Some jurisdictions do not allow the exclusion or limitation of certain damages or warranties. In such cases, the above exclusions and limitations shall apply only to the extent permitted by the laws of your jurisdiction.
+
+Any example results, benchmark figures, latency measurements, frame-time graphs, or similar metrics shown in the Project or in the Official Discord are provided purely for illustration and may not be achievable on your systems. Differences in hardware, firmware, drivers, operating system builds, background software, and user configuration can materially change outcomes. You acknowledge that:
+
+- No specific performance gain, latency reduction, or stability level is guaranteed; and
+- You will not represent to others that the Owner “guarantees” particular results on any given setup.
+
+---
+
+## 14A. Research and Reverse Engineering Context
+
+Some tweaks and discoveries in this Project and in the Official Discord **“The PCs Secret”** are based on:
+
+- Reverse engineering and analysis of third-party software such as operating system components, drivers, games, or related binaries; and
+- Empirical testing of registry keys, configuration flags, and low-level behaviors.
+
+For clarity:
+
+1. **No Distribution of Third-Party Binaries**  
+   The Project and the Official Discord do **not** host, provide, or distribute:
+   - Third-party drivers, games, operating system images, or other proprietary binaries;  
+   - Cracked, modified, or “no-DRM” versions of such software;  
+   - Tools whose primary purpose is to bypass license checks, DRM, or anti-cheat systems.
+
+   Any samples or software used for analysis must be lawfully obtained by each user from legitimate sources (e.g., official vendors, platforms, or licenses).
+
+2. **Educational and Research Purposes Only**  
+   Reverse engineering and analysis discussed within the Project and the Official Discord are intended **solely for educational and research purposes**, particularly:
+   - Understanding how systems and drivers behave;  
+   - Identifying performance characteristics, bottlenecks, and side effects;  
+   - Informing safe and reproducible configuration changes by end-users.
+
+   Nothing in this Policy should be interpreted as encouraging or authorizing you to infringe the intellectual property rights of third parties, to violate third-party terms of service, or to circumvent legal protections on software or services.
+
+3. **No Guarantee of Compliance with Third-Party Terms**  
+   While the Project aims to focus on performance-oriented, educational analysis, it is ultimately your responsibility to:
+   - Review and comply with the licenses and terms of service of any third-party software you use; and  
+   - Ensure that any reverse engineering or analysis you perform is lawful in your jurisdiction.
+
+   If any tension arises between this Policy and applicable law or third-party terms, you must follow the law and those third-party terms. You may not attribute any resulting violations or consequences to the Owner or the Project.
+
+4. **No Encouragement of Circumvention**  
+   The fact that certain system behaviors, flags, or internal mechanisms are discussed for educational purposes does not mean the Owner encourages or authorizes you to:
+   - Circumvent license checks, DRM, anti-cheat, or other technical protection measures; or
+   - Breach contractual obligations or terms of service you have accepted with third parties.
+
+   Any decision to perform such actions is solely yours, done entirely at your own risk, and in violation of this Policy. You must not attribute such conduct to the Owner or the Project.
 
 ---
 
@@ -490,6 +629,11 @@ You may not use this Content to:
 - Circumvent DRM, anti-cheat systems, or other technical protection measures;
 - Violate the terms of service of operating systems, games, or online services;
 - Engage in any illegal activity under applicable law.
+
+You must not use the Content to obtain or market unfair advantages in competitive contexts, including but not limited to:
+
+- Tweaks or configurations designed or advertised primarily to bypass, weaken, or exploit anti-cheat, anti-tamper, or integrity systems; or
+- Services that promise competitive advantages in online games, tournaments, or ranked ladders in ways that violate fair-play policies or community standards.
 
 If you choose to use any Content in such ways, you do so entirely at your own risk, and you must not attribute such misuse to the Owner or the Project.
 
@@ -524,11 +668,12 @@ In addition to termination and takedown, the Owner reserves the right to seek:
 
 ### 16.4. Indemnity
 
-To the maximum extent permitted by law, you agree to indemnify, defend, and hold harmless the Owner from and against any and all claims, demands, damages, losses, costs, and expenses (including reasonable legal fees) arising out of or in connection with:
+To the maximum extent permitted by law, you agree to indemnify, defend, and hold harmless the Owner from and against any and all claims, demands, investigations, actions, damages, losses, costs, and expenses (including reasonable legal fees) arising out of or in connection with:
 
 - Your use of the Content;
-- Your breach of this Policy; or
-- Any claim that your Member Content infringes or misappropriates any third-party right.
+- Your breach of this Policy;
+- Your violation of any third-party terms of service, license agreement, or policy when using the Content; or
+- Any claim that your Member Content or your use of the Content infringes or misappropriates any third-party right (including intellectual property, privacy, or personality rights).
 
 ### 16.5. Injunctive and Equitable Relief
 
@@ -575,6 +720,21 @@ The Owner may update or modify this Policy from time to time. Significant change
 
 ---
 
-## 20. Not Legal Advice
+## 20. Not Professional Advice
 
-This Policy expresses the Owner’s intentions and conditions for use of the Content. It is not formal legal advice. If you need legal certainty for a specific use case, consult a qualified lawyer in your jurisdiction.
+This Project and the Official Discord **“The PCs Secret”** provide general technical information, experimental findings, and personal opinions for **educational and research purposes only**. They do **not** constitute:
+
+- Legal advice;
+- Financial advice;
+- Professional engineering, security, or IT consulting; or
+- Any other form of regulated professional advice.
+
+No professional-client relationship of any kind is created between you and the Owner (or any contributor) by your access to or use of the Content.
+
+You are solely responsible for:
+
+- Evaluating whether any tweak, configuration, or method is appropriate for your situation;
+- Ensuring compliance with applicable laws and third-party terms; and
+- Seeking independent professional advice where necessary.
+
+If you need legal, financial, or other professional certainty for a specific use case, consult a qualified professional in your jurisdiction.
