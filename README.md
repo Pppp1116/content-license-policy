@@ -21,6 +21,7 @@ All original technical materials authored by the **Server Owner**—including di
 - **Attribution:** You must give appropriate credit.
 - **NonCommercial:** You may not use the material for commercial purposes (including paywalled content).
 - **ShareAlike:** If you remix or adapt, you must distribute your contributions under the same license.
+- **No AI Training:** The use of this content for the training of machine learning models or generative AI systems is expressly prohibited without a separate written license.
 
 *Note: The Server Owner reserves the right to re-license their own original works under different terms at any time without affecting the license of previously distributed copies.*
 
@@ -30,21 +31,28 @@ All original technical materials authored by the **Server Owner**—including di
 
 Technical contributions submitted by members (e.g., chat messages, research notes, guides) remain the intellectual property of the author.
 
-By submitting content, the author grants the Community and Server Owner a **perpetual, irrevocable, non-exclusive, royalty-free license** to:
-1.  **Archive and Display:** Keep the content visible for historical context and documentation, even if the user leaves the community.
-2.  **Compile:** Incorporate findings into official community guides or "Verified Findings" lists.
-3.  **Redistribute:** Share the content externally for educational purposes with attribution.
+By submitting content, the author grants the Community and Server Owner a **perpetual, irrevocable, non-exclusive, royalty-free, worldwide license** to:
+1.  **Archive and Display:** Keep the content visible for historical context and documentation.
+2.  **Adapt and Update:** Modify, translate, correct, or update the content (e.g., updating a guide for a new Windows version) without further permission.
+3.  **Compile:** Incorporate findings into official community guides or "Verified Findings" lists.
+4.  **Redistribute:** Share the content externally for educational purposes with attribution.
 
 **Commercial Restriction:**
 Members and third parties are **strictly prohibited** from harvesting community content for commercial sale, paid courses, or paywalled access (e.g., Patreon-locked guides) without the explicit written consent of the original author.
 
 ---
 
-## 3. Reverse Engineering & Driver Modification Policy
+## 3. Feedback and Suggestions
 
-To ensure compliance with the DMCA (USA), EU Software Directive, and other international laws, the following rules apply to all **driver and software analysis**:
+If you provide feedback, ideas, or suggestions regarding the project, server organization, or technical discoveries ("Feedback"), you acknowledge that such Feedback is non-confidential and you grant the Server Owner an unrestricted, perpetual, and royalty-free right to use, implement, and modify your Feedback for any purpose, without any compensation or credit obligation to you.
 
-1.  **Interoperability & Optimization Only:** All reverse engineering is conducted solely for the purposes of **interoperability, bug fixing, and performance optimization** where the original vendor has failed to provide a solution.
+---
+
+## 4. Reverse Engineering & Driver Modification Policy
+
+To ensure compliance with the **DMCA (USA, 17 U.S.C. § 1201)** and the **EU Software Directive (2009/24/EC, Article 6)**, the following rules apply to all driver and software analysis:
+
+1.  **Interoperability & Optimization Only:** All reverse engineering is conducted solely for the purposes of **interoperability**, achieving compatibility, or correcting errors where the original vendor has failed to provide a solution.
 2.  **"Clean Room" Distribution:**
     - **ALLOWED:** Sharing hex offsets, registry keys, differential patches (`.bps`, `.diff`), and configuration strings.
     - **BANNED:** Uploading or hosting proprietary binaries (e.g., modified `.sys`, `.dll`, or `.exe` files) owned by vendors (NVIDIA, AMD, Microsoft, etc.).
@@ -53,7 +61,7 @@ To ensure compliance with the DMCA (USA), EU Software Directive, and other inter
 
 ---
 
-## 4. Data Privacy & Log Files
+## 5. Data Privacy & Log Files
 
 In the pursuit of troubleshooting, members may share system logs (e.g., DXDiag, Event Viewer, benchmarks).
 - **User Responsibility:** You are responsible for **sanitizing (removing)** personal data (Real Name, IP Address, Serial Numbers) from logs before uploading.
@@ -61,7 +69,7 @@ In the pursuit of troubleshooting, members may share system logs (e.g., DXDiag, 
 
 ---
 
-## 5. Exclusions (What is NOT Licensed)
+## 6. Exclusions (What is NOT Licensed)
 
 The open licenses described above **do not apply** to:
 - **Confidential Information:** Leaked closed-beta drivers, NDAs, or trade secrets.
@@ -70,7 +78,7 @@ The open licenses described above **do not apply** to:
 
 ---
 
-## 6. Limitation of Liability (The "As-Is" Clause)
+## 7. Limitation of Liability (The "As-Is" Clause)
 
 **READ CAREFULLY:**
 ALL content, scripts, registry files, and advice are provided **“as-is” without warranty of any kind**, express or implied.
@@ -88,7 +96,7 @@ By applying any tweak or configuration found here, you acknowledge that:
 
 ---
 
-## 7. Indemnification
+## 8. Indemnification
 
 You agree to indemnify and hold harmless the Server Owner, Moderation Team, and Contributors from any claims, damages, legal fees, or liabilities arising from:
 - Your violation of this policy.
@@ -97,7 +105,7 @@ You agree to indemnify and hold harmless the Server Owner, Moderation Team, and 
 
 ---
 
-## 8. Enforcement & Termination
+## 9. Enforcement & Termination
 
 The Server Owner reserves the right to enforce this policy at their **sole discretion**.
 - **Zero Tolerance:** Posting malware, illegal content, or stolen commercial assets will result in an immediate ban.
@@ -105,12 +113,20 @@ The Server Owner reserves the right to enforce this policy at their **sole discr
 
 ---
 
-## 9. Governing Law
+## 10. Governing Law & Dispute Resolution
 
-Any disputes arising out of or related to this Policy or the community shall be governed by the laws of **[Insert Your Country/State Here]**, without regard to its conflict of laws rules.
+Any disputes arising out of or related to this Policy or the community shall be governed by the laws of **[Insert Your Country]**, without regard to its conflict of laws rules.
+Before initiating any legal action, you agree to attempt to resolve the dispute informally by contacting the Server Owner in good faith.
 
 ---
 
-## 10. Acceptance
+## 11. Severability & Survival
+
+- **Severability:** If any provision of this Policy is found to be unenforceable, the remaining provisions will continue in full effect.
+- **Survival:** The obligations under Sections 2 (License), 7 (Liability), and 8 (Indemnification) shall survive any termination of your access to the community.
+
+---
+
+## 12. Acceptance
 
 By joining the server, viewing this repository, or submitting content, you signify your acceptance of this policy. If you do not agree, you must discontinue use of these resources immediately.
