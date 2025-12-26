@@ -1,6 +1,6 @@
 # Content License & Usage Policy
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-26_
 
 This document governs the use of:
 
