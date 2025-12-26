@@ -1,6 +1,6 @@
 # Content License & Usage Policy
 
-_Last updated: 2025-12-26_
+_Last updated: 2025-12-08_
 
 This document governs the use of:
 
@@ -17,7 +17,7 @@ It is intended to:
 
 > **Important:** This is a custom policy inspired by Creative Commons BY-NC-SA 4.0, but it is **not** a standard Creative Commons license. For the Content covered here, **only this Policy applies**. In any conflict between this Policy and any external template, summary, or license label, **this Policy prevails**.
 
-By accessing, using, copying, or distributing any Content, **you agree to be bound** by this Policy.
+By accessing, using, copying, or distributing any Content, **you agree to be bound** by this Policy. If you do not agree, do not access, use, copy, or distribute the Content.
 
 ---
 
@@ -175,7 +175,7 @@ Ad-supported educational content (for example, a YouTube video or blog post) may
    - Gate “preset bundles” or “full configs” derived from this work behind donations, memberships, or subscriptions.
 4. The primary value of the educational content must come from your **own commentary, analysis, or testing**, not from simply reproducing the Owner’s Content or tweak packs in bulk.
 
-The Owner reserves the right, at their **sole discretion**, to determine whether a specific use is commercial or non-commercial, especially in borderline cases involving ad revenue, affiliate links, sponsorships, or indirect monetization. If the Owner notifies you that your use is considered commercial, you must either cease that use or obtain a commercial license.
+The Owner reserves the right, at their **reasonable discretion**, to determine whether a specific use is commercial or non-commercial, especially in borderline cases involving ad revenue, affiliate links, sponsorships, or indirect monetization. If the Owner notifies you that your use is considered commercial, you must either cease that use or obtain a commercial license.
 
 ### 2.3. No Assignment or Sublicensing by Users
 
@@ -421,6 +421,8 @@ You also represent and warrant that:
 
 Other users receive only the **non-commercial rights** described in this Policy. Member Content is **not** automatically free for others to monetize.
 
+**Moral rights notice (where applicable):** Nothing in this Policy is intended to waive or limit any moral rights that cannot be waived under applicable law. Where moral rights apply, you agree not to assert them in a way that would prevent the Owner from exercising the license granted above to the maximum extent permitted by law.
+
 ### 9.3. Member Content Responsibility and Moderation
 
 1. Each Member is solely responsible for their own Member Content. The Owner does not generally pre-screen Member Content and does not endorse, approve, or guarantee the accuracy, safety, or legality of any Member Content.
@@ -514,7 +516,7 @@ Your request should include:
 - Where and how it will be published;
 - Whether and how it will be monetized.
 
-The Owner may grant or refuse permission at their sole discretion and may impose additional conditions.
+The Owner may grant or refuse permission at their discretion and may impose additional conditions.
 
 ### 12.1. Revocability of Exceptions
 
@@ -522,7 +524,7 @@ Any permission, exception, or license granted by the Owner under this Policy is:
 
 - Limited to the scope explicitly described in writing;
 - Non-transferable; and
-- **Revocable at will** by the Owner, especially in cases of abuse, misrepresentation, or material changes to how the Content is used.
+- **Revocable** in cases of material breach, abuse, misrepresentation, or material changes to how the Content is used.
 
 If a granted permission is revoked, you must promptly cease the covered use and comply with any reasonable takedown or modification request issued by the Owner.
 
