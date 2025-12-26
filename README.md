@@ -1,4 +1,4 @@
-# Content License & Usage Policy (Custom Non-Commercial + No-AI License)
+# Content License & Usage Policy 
 
 _Last updated: 2025-12-26_
 
